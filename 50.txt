@@ -1491,7 +1491,55 @@ CCTV15-音乐,http://113.220.233.185:9999/tsfile/live/0015_1.m3u8?key=txiptv
 
 
 
-
+🌍江西地区,#genre#
+江西卫视,http://011.my.zhoujie218.top:8888/udp/239.252.220.63:5140
+江西二套,http://011.my.zhoujie218.top:8888/udp/239.252.220.238:5140
+江西三套,http://011.my.zhoujie218.top:8888/udp/239.252.219.173:5140
+江西五套,http://011.my.zhoujie218.top:8888/udp/239.252.220.102:5140
+江西六套,http://011.my.zhoujie218.top:8888/udp/239.252.219.113:5140
+江西七套,http://011.my.zhoujie218.top:8888/udp/239.252.220.100:5140
+江西教育,http://011.my.zhoujie218.top:8888/udp/239.252.219.115:5140
+梨园频道,http://011.my.zhoujie218.top:8888/udp/239.252.220.179:5140
+CHC高清电影,http://011.my.zhoujie218.top:8888/udp/239.252.219.83:5140
+CHC家庭影院,http://011.my.zhoujie218.top:8888/udp/239.252.219.84:5140
+CHC动作电影,http://011.my.zhoujie218.top:8888/udp/239.252.219.85:5140
+CCTV1,http://011.my.zhoujie218.top:8888/udp/239.252.219.200:5140
+CCTV2,http://011.my.zhoujie218.top:8888/udp/239.252.220.183:5140
+CCTV3,http://011.my.zhoujie218.top:8888/udp/239.252.219.252:5140
+CCTV3,http://011.my.zhoujie218.top:8888/udp/239.252.220.193:5140
+CCTV4,http://011.my.zhoujie218.top:8888/udp/239.252.220.184:5140
+CCTV5,http://011.my.zhoujie218.top:8888/udp/239.252.219.198:5140
+CCTV5,http://011.my.zhoujie218.top:8888/udp/239.252.219.236:5140
+CCTV5+,http://011.my.zhoujie218.top:8888/udp/239.252.219.72:5140
+CCTV6,http://011.my.zhoujie218.top:8888/udp/239.252.219.237:5140
+CCTV6,http://011.my.zhoujie218.top:8888/udp/239.252.220.195:5140
+CCTV7,http://011.my.zhoujie218.top:8888/udp/239.252.220.185:5140
+CCTV8,http://011.my.zhoujie218.top:8888/udp/239.252.219.253:5140
+CCTV8,http://011.my.zhoujie218.top:8888/udp/239.252.220.196:5140
+CCTV9,http://011.my.zhoujie218.top:8888/udp/239.252.220.186:5140
+CCTV10,http://011.my.zhoujie218.top:8888/udp/239.252.220.91:5140
+CCTV11,http://011.my.zhoujie218.top:8888/udp/239.252.219.78:5140
+CCTV12,http://011.my.zhoujie218.top:8888/udp/239.252.220.187:5140
+CCTV13,http://011.my.zhoujie218.top:8888/udp/239.252.219.139:5140
+CCTV14,http://011.my.zhoujie218.top:8888/udp/239.252.220.92:5140
+CCTV15,http://011.my.zhoujie218.top:8888/udp/239.252.219.79:5140
+CCTV17,http://011.my.zhoujie218.top:8888/udp/239.252.220.192:5140
+奥林匹克-4K,http://011.my.zhoujie218.top:8888/udp/239.252.220.237:5140
+电影测试-4K,http://011.my.zhoujie218.top:8888/udp/239.252.220.212:5140
+CCTV4欧洲,http://011.my.zhoujie218.top:8888/udp/239.252.219.192:5140
+CCTV4美洲,http://011.my.zhoujie218.top:8888/udp/239.252.219.193:5140
+CGTN英语,http://011.my.zhoujie218.top:8888/udp/239.252.219.194:5140
+CGTN记录,http://011.my.zhoujie218.top:8888/udp/239.252.219.195:5140
+CGTN西语,http://011.my.zhoujie218.top:8888/udp/239.252.219.196:5140
+CGTN法语,http://011.my.zhoujie218.top:8888/udp/239.252.219.65:5140
+CGTN俄语,http://011.my.zhoujie218.top:8888/udp/239.252.219.67:5140
+CGTN阿语,http://011.my.zhoujie218.top:8888/udp/239.252.219.66:5140
+央视精品,http://011.my.zhoujie218.top:8888/udp/239.252.219.81:5140
+央视台球,http://011.my.zhoujie218.top:8888/udp/239.252.219.80:5140
+风云音乐,http://011.my.zhoujie218.top:8888/udp/239.252.219.87:5140
+第一剧场,http://011.my.zhoujie218.top:8888/udp/239.252.219.86:5140
+风云剧场,http://011.my.zhoujie218.top:8888/udp/239.252.219.89:5140
+怀旧剧场,http://011.my.zhoujie218.top:8888/udp/239.252.219.90:5140
 
 
 
