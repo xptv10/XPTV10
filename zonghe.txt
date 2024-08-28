@@ -101,7 +101,7 @@ CCTV15-音乐,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv
 江苏卫视,http://116.9.204.242:9901/tsfile/live/0127_1.m3u8?key=txiptv
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8?key=txiptv
 广西旅游,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8?key=txiptv
-🌍上海酒店,#genre#
+
 新闻综合,http://101.229.227.246:7777/tsfile/live/1025_1.m3u8?key=txiptv
 东方卫视,http://101.229.227.246:7777/tsfile/live/0107_1.m3u8?key=txiptv
 都市频道,http://101.229.227.246:7777/tsfile/live/1026_1.m3u8?key=txiptv
