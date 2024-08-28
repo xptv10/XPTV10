@@ -1,6 +1,5 @@
 央卫综合,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+
 
 CCTV1-综合,http://223.159.8.218:8099/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2-财经,http://223.159.8.218:8099/tsfile/live/0002_1.m3u8?key=txiptv
