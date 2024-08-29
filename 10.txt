@@ -8186,3 +8186,7 @@ CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 金陵之声,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
 成都文化休闲广播·radio946,http://live.cooltv.top/tv/cdgb.php?id=433-20
 苏州都市音乐广播,http://live.cooltv.top/tv/szradio.php?id=szdsyygb
+🌍重要通知事项,#genre#
+直播源地址后续更换,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+不另行通知劳驾添加,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+微信BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
