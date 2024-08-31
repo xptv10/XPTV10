@@ -857,8 +857,20 @@ CCTV15高清,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv
 
 
 🌍代理0819,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-赛马台,https://test.zapi.us.kg/?id=now-668
+3翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+1翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+2翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+
+
+1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
+亚洲影院,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
+广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+哒啵电竞,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000032327
+TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+
 
 新时代电视二台,https://test.zapi.us.kg/?id=fairchildtv2
 CI 罪案侦查频道,https://test.zapi.us.kg/?id=ci
