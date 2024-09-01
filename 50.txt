@@ -1,4 +1,3 @@
-由于一些原因该接口地址暂停更新
 🌍测试频道,#genre#
 QQ65267199,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
