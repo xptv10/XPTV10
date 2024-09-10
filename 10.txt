@@ -760,13 +760,10 @@ TiTV,http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
 内蒙-酒店,#genre#
 CCTV-1,http://110.7.131.149:8096/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-2,http://110.7.131.149:8096/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-3,http://110.7.131.149:8096/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-4,http://110.7.131.149:8096/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV-5,http://110.7.131.149:8096/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6-电影,http://110.7.131.149:8096/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7,http://110.7.131.149:8096/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV-8,http://110.7.131.149:8096/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9-纪录,http://110.7.131.149:8096/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV-9,http://110.7.131.149:8096/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://110.7.131.149:8096/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-11,http://110.7.131.149:8096/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-12,http://110.7.131.149:8096/tsfile/live/0012_1.m3u8?key=txiptv
