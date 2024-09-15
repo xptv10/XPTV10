@@ -1682,6 +1682,12 @@ SiTV东方财经,http://123.160.202.41:2000/rtp/239.16.10.235:2000
 福建漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 福建漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
 
+无锡频道,#genre#
+无锡新闻,http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+
 
 
 
