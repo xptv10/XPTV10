@@ -384,7 +384,7 @@ ViuTV台英,P2p://generationnexxxt.com:19806/ea75ceca822f454bb858845559d5fc55#P2
 香港*凤凰资讯台,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 香港*凤凰香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 香港*有线新闻台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
-香港*无线新闻台,P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+香港*无线新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 香港*无线新闻备,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 香港*Now新闻台,P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
 香港*无线翡翠台,P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
