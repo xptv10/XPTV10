@@ -1687,6 +1687,7 @@ SiTV东方财经,http://123.160.202.41:2000/rtp/239.16.10.235:2000
 无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=9b80bf301726385401
 江苏城市高清,http://180.112.31.243:55555/rtp/239.49.8.107:8000
 江苏综艺高清,http://180.112.31.243:55555/rtp/239.49.8.108:8000
 江苏体育高清,http://180.112.31.243:55555/rtp/239.49.8.117:8000
