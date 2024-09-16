@@ -89,9 +89,9 @@ IPTV法制,http://123.10.78.145:808/hls/83/index.m3u8
 
 CCTV-1,http://113.57.109.48:1111/tsfile/live/1000_1.m3u8?key=txiptv
 CCTV-2,http://113.57.109.48:1111/tsfile/live/1001_1.m3u8?key=txiptv
-CCTV-3综艺HD,http://113.57.109.48:1111/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV-3,http://113.57.109.48:1111/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV-4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8?key=txiptv
-CCTV-5体育HD,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV-5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV-6,http://113.57.109.48:1111/tsfile/live/1005_1.m3u8?key=txiptv
 CCTV-7,http://113.57.109.48:1111/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV-8,http://113.57.109.48:1111/tsfile/live/1007_1.m3u8?key=txiptv
