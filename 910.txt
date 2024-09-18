@@ -1647,7 +1647,6 @@ CGTN俄语,http://120.77.28.4:8648/mgu.php?id=cgtnr
 连云港新闻综合,http://120.77.28.4:8648/mgu.php?id=lygxwzh
 徐州新闻综合,http://120.77.28.4:8648/mgu.php?id=xzxwzh
 宿迁新闻综合,http://120.77.28.4:8648/mgu.php?id=sqxwzh
-广东影视,http://120.77.28.4:8648/mgu.php?id=gdys
 嘉佳卡通,http://120.77.28.4:8648/mgu.php?id=jjkt
 中央新影-老故事,http://120.77.28.4:8648/mgu.php?id=lgs
 中央新影-发现之旅,http://120.77.28.4:8648/mgu.php?id=fxzl
