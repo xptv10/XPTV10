@@ -1665,7 +1665,7 @@ UFC格斗精选,http://120.77.28.4:8648/mgu.php?id=ufcgdjx
 英雄联盟赛事,http://120.77.28.4:8648/mgu.php?id=yxlmss
 全民乒乓,http://120.77.28.4:8648/mgu.php?id=qmpp
 五大联赛经典,http://120.77.28.4:8648/mgu.php?id=wdlsjd
-DD,http://cfss.cc/cdn/hy/23749096.flv
+
 
 
 
