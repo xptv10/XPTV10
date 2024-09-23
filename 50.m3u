@@ -1537,6 +1537,2144 @@ http://liveplay.sznews.com/66_showto_live/2647.m3u8
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共" tvg-logo="https://live.fanmingming.com/tv/河源公共.png" group-title="🌍广东地区",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南电信",河南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.21:10210
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png" group-title="河南电信",河南都市频道
+http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生频道.png" group-title="河南电信",河南民生频道
+http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治频道.png" group-title="河南电信",河南法治频道
+http://www.lwfz.fun:8800/rtp/239.16.20.166:11660
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧频道.png" group-title="河南电信",河南电视剧频道
+http://www.lwfz.fun:8800/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻频道.png" group-title="河南电信",河南新闻频道
+http://www.lwfz.fun:8800/rtp/239.16.20.168:11680
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南电信",大美河南
+http://www.lwfz.fun:8800/rtp/239.16.20.17:10170
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.1:10010
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南电信",CCTV-2
+http://www.lwfz.fun:8800/rtp/239.16.20.2:10020
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.20.3:10030
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="河南电信",CCTV-4
+http://www.lwfz.fun:8800/rtp/239.16.20.4:10040
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5
+http://www.lwfz.fun:8800/rtp/239.16.20.53:10530
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5+
+http://www.lwfz.fun:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="河南电信",CCTV-6
+http://www.lwfz.fun:8800/rtp/239.16.20.6:10060
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="河南电信",CCTV-7
+http://www.lwfz.fun:8800/rtp/239.16.20.51:10510
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="河南电信",CCTV-8
+http://www.lwfz.fun:8800/rtp/239.16.20.8:10080
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="河南电信",CCTV-9
+http://www.lwfz.fun:8800/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="河南电信",CCTV-10
+http://www.lwfz.fun:8800/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="河南电信",CCTV-11
+http://www.lwfz.fun:8800/rtp/239.16.20.11:10110
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="河南电信",CCTV-12
+http://www.lwfz.fun:8800/rtp/239.16.20.12:10120
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="河南电信",CCTV-13
+http://www.lwfz.fun:8800/rtp/239.16.20.13:10130
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="河南电信",CCTV-14 720
+http://www.lwfz.fun:8800/rtp/239.16.20.14:10140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="河南电信",CCTV-15
+http://www.lwfz.fun:8800/rtp/239.16.20.15:10150
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="河南电信",CCTV-16
+http://www.lwfz.fun:8800/rtp/239.16.20.34:10340
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="河南电信",CCTV-17
+http://www.lwfz.fun:8800/rtp/239.16.20.7:10070
+#EXTINF:-1 tvg-name="新乡县综合" tvg-logo="https://live.fanmingming.com/tv/新乡县综合.png" group-title="河南电信",新乡县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.18:10180
+#EXTINF:-1 tvg-name="封丘1新闻综合" tvg-logo="https://live.fanmingming.com/tv/封丘1新闻综合.png" group-title="河南电信",封丘1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.19:10190
+#EXTINF:-1 tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="河南电信",邓州综合
+http://www.lwfz.fun:8800/rtp/239.16.20.20:10200
+#EXTINF:-1 tvg-name="获嘉综合" tvg-logo="https://live.fanmingming.com/tv/获嘉综合.png" group-title="河南电信",获嘉综合
+http://www.lwfz.fun:8800/rtp/239.16.20.25:10250
+#EXTINF:-1 tvg-name="平顶山教育台" tvg-logo="https://live.fanmingming.com/tv/平顶山教育台.png" group-title="河南电信",平顶山教育台
+http://www.lwfz.fun:8800/rtp/239.16.20.27:10270
+#EXTINF:-1 tvg-name="大剧院" tvg-logo="https://live.fanmingming.com/tv/大剧院.png" group-title="河南电信",大剧院
+http://www.lwfz.fun:8800/rtp/239.16.20.29:10290
+#EXTINF:-1 tvg-name="平煤综合" tvg-logo="https://live.fanmingming.com/tv/平煤综合.png" group-title="河南电信",平煤综合
+http://www.lwfz.fun:8800/rtp/239.16.20.30:10300
+#EXTINF:-1 tvg-name="平煤安全环保" tvg-logo="https://live.fanmingming.com/tv/平煤安全环保.png" group-title="河南电信",平煤安全环保
+http://www.lwfz.fun:8800/rtp/239.16.20.31:10310
+#EXTINF:-1 tvg-name="叶县电视台-1" tvg-logo="https://live.fanmingming.com/tv/叶县电视台-1.png" group-title="河南电信",叶县电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.32:10320
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="河南电信",SiTV都市剧场
+http://www.lwfz.fun:8800/rtp/239.16.20.38:10380
+#EXTINF:-1 tvg-name="SiTV欢笑剧场 720" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场 720.png" group-title="河南电信",SiTV欢笑剧场 720
+http://www.lwfz.fun:8800/rtp/239.16.20.39:10390
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="河南电信",SiTV动漫秀场
+http://www.lwfz.fun:8800/rtp/239.16.20.40:10400
+#EXTINF:-1 tvg-name="新密综合频道" tvg-logo="https://live.fanmingming.com/tv/新密综合频道.png" group-title="河南电信",新密综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.41:10410
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://live.fanmingming.com/tv/登封综合.png" group-title="河南电信",登封综合
+http://www.lwfz.fun:8800/rtp/239.16.20.42:10420
+#EXTINF:-1 tvg-name="巩义综合" tvg-logo="https://live.fanmingming.com/tv/巩义综合.png" group-title="河南电信",巩义综合
+http://www.lwfz.fun:8800/rtp/239.16.20.43:10430
+#EXTINF:-1 tvg-name="荥阳综合频道" tvg-logo="https://live.fanmingming.com/tv/荥阳综合频道.png" group-title="河南电信",荥阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.44:10440
+#EXTINF:-1 tvg-name="新郑TV-1" tvg-logo="https://live.fanmingming.com/tv/新郑TV-1.png" group-title="河南电信",新郑TV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.45:10450
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://live.fanmingming.com/tv/渑池新闻综合.png" group-title="河南电信",渑池新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.47:10470
+#EXTINF:-1 tvg-name="淅川电视台-1" tvg-logo="https://live.fanmingming.com/tv/淅川电视台-1.png" group-title="河南电信",淅川电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.48:10480
+#EXTINF:-1 tvg-name="新蔡TV" tvg-logo="https://live.fanmingming.com/tv/新蔡TV.png" group-title="河南电信",新蔡TV
+http://www.lwfz.fun:8800/rtp/239.16.20.49:10490
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇平新闻综合.png" group-title="河南电信",镇平新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.50:10500
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.20.52:10520
+#EXTINF:-1 tvg-name="灵宝综合频道" tvg-logo="https://live.fanmingming.com/tv/灵宝综合频道.png" group-title="河南电信",灵宝综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.59:10590
+#EXTINF:-1 tvg-name="宝丰TV-1" tvg-logo="https://live.fanmingming.com/tv/宝丰TV-1.png" group-title="河南电信",宝丰TV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.63:10630
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png" group-title="河南电信",SiTV东方财经
+http://www.lwfz.fun:8800/rtp/239.16.20.64:10640
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="河南电信",湖南快乐垂钓
+http://www.lwfz.fun:8800/rtp/239.16.20.67:10670
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南茶频道.png" group-title="河南电信",湖南茶频道
+http://www.lwfz.fun:8800/rtp/239.16.20.68:10680
+#EXTINF:-1 tvg-name="湖南先锋乒羽 720" tvg-logo="https://live.fanmingming.com/tv/湖南先锋乒羽 720.png" group-title="河南电信",湖南先锋乒羽 720
+http://www.lwfz.fun:8800/rtp/239.16.20.69:10690
+#EXTINF:-1 tvg-name="NNM家庭理财" tvg-logo="https://live.fanmingming.com/tv/NNM家庭理财.png" group-title="河南电信",NNM家庭理财
+http://www.lwfz.fun:8800/rtp/239.16.20.70:10700
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="河南电信",浙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.71:10710
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="河南电信",湖南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.72:10720
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="河南电信",东方卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.73:10730
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="河南电信",江苏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.74:10740
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="河南电信",安徽卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.75:10750
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="河南电信",北京卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.76:10760
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="河南电信",深圳卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.77:10770
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河南电信",CETV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.78:10780
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="河南电信",重庆卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="河南电信",山东卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.80:10800
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="河南电信",贵州卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.81:10810
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="河南电信",东南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.82:10820
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河南电信",陕西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.83:10830
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河南电信",广西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.84:10840
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河南电信",云南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.85:10850
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="河南电信",四川卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.86:10860
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="河南电信",湖北卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.87:10870
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河南电信",河北卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.88:10880
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="河南电信",江西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.89:10890
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="河南电信",山西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.90:10900
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河南电信",内蒙古卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.91:10910
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河南电信",宁夏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.92:10920
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河南电信",新疆卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.93:10930
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="河南电信",吉林卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.94:10940
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="河南电信",辽宁卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.95:10950
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="河南电信",天津卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.96:10960
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河南电信",海南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.97:10970
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="河南电信",广东卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.98:10980
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="河南电信",黑龙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河南电信",西藏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.100:11000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河南电信",青海卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.101:11010
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="河南电信",甘肃卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.102:11020
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="河南电信",江苏优漫卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.103:11030
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="河南电信",湖南金鹰卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.104:11040
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="河南电信",北京卡酷少儿
+http://www.lwfz.fun:8800/rtp/239.16.20.105:11050
+#EXTINF:-1 tvg-name="上海哈哈炫动 720" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动 720.png" group-title="河南电信",上海哈哈炫动 720
+http://www.lwfz.fun:8800/rtp/239.16.20.106:11060
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/广东嘉佳卡通.png" group-title="河南电信",广东嘉佳卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.107:11070
+#EXTINF:-1 tvg-name="南乐综合" tvg-logo="https://live.fanmingming.com/tv/南乐综合.png" group-title="河南电信",南乐综合
+http://www.lwfz.fun:8800/rtp/239.16.20.108:11080
+#EXTINF:-1 tvg-name="义马电视台" tvg-logo="https://live.fanmingming.com/tv/义马电视台.png" group-title="河南电信",义马电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.109:11090
+#EXTINF:-1 tvg-name="SiTV乐游" tvg-logo="https://live.fanmingming.com/tv/SiTV乐游.png" group-title="河南电信",SiTV乐游
+http://www.lwfz.fun:8800/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="河南电信",SiTV游戏风云
+http://www.lwfz.fun:8800/rtp/239.16.20.112:11120
+#EXTINF:-1 tvg-name="SiTV极速汽车" tvg-logo="https://live.fanmingming.com/tv/SiTV极速汽车.png" group-title="河南电信",SiTV极速汽车
+http://www.lwfz.fun:8800/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-name="SiTV生活时尚" tvg-logo="https://live.fanmingming.com/tv/SiTV生活时尚.png" group-title="河南电信",SiTV生活时尚
+http://www.lwfz.fun:8800/rtp/239.16.20.114:11140
+#EXTINF:-1 tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="河南电信",SiTV金色学堂
+http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://live.fanmingming.com/tv/美食汇.png" group-title="河南电信",美食汇
+http://www.lwfz.fun:8800/rtp/239.16.20.117:11170
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://live.fanmingming.com/tv/棋牌汇.png" group-title="河南电信",棋牌汇
+http://www.lwfz.fun:8800/rtp/239.16.20.118:11180
+#EXTINF:-1 tvg-name="北京家有购物" tvg-logo="https://live.fanmingming.com/tv/北京家有购物.png" group-title="河南电信",北京家有购物
+http://www.lwfz.fun:8800/rtp/239.16.20.119:11190
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://live.fanmingming.com/tv/河南移动戏曲.png" group-title="河南电信",河南移动戏曲
+http://www.lwfz.fun:8800/rtp/239.16.20.120:11200
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.com/tv/河南睛彩中原.png" group-title="河南电信",河南睛彩中原
+http://www.lwfz.fun:8800/rtp/239.16.20.122:11220
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="河南电信",江西陶瓷
+http://www.lwfz.fun:8800/rtp/239.16.20.124:11240
+#EXTINF:-1 tvg-name="摄影频道" tvg-logo="https://live.fanmingming.com/tv/摄影频道.png" group-title="河南电信",摄影频道
+http://www.lwfz.fun:8800/rtp/239.16.20.125:11250
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="河南电信",天元围棋
+http://www.lwfz.fun:8800/rtp/239.16.20.126:11260
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="河南电信",体育赛事
+http://www.lwfz.fun:8800/rtp/239.16.20.128:11280
+#EXTINF:-1 tvg-name="江苏财富天下 720" tvg-logo="https://live.fanmingming.com/tv/江苏财富天下 720.png" group-title="河南电信",江苏财富天下 720
+http://www.lwfz.fun:8800/rtp/239.16.20.129:11290
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="河南电信",书画频道
+http://www.lwfz.fun:8800/rtp/239.16.20.130:11300
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="河南电信",环球旅游
+http://www.lwfz.fun:8800/rtp/239.16.20.131:11310
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="河南电信",中华特产
+http://www.lwfz.fun:8800/rtp/239.16.20.132:11320
+#EXTINF:-1 tvg-name="中央新影老故事" tvg-logo="https://live.fanmingming.com/tv/中央新影老故事.png" group-title="河南电信",中央新影老故事
+http://www.lwfz.fun:8800/rtp/239.16.20.133:11330
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.com/tv/车迷频道.png" group-title="河南电信",车迷频道
+http://www.lwfz.fun:8800/rtp/239.16.20.134:11340
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://live.fanmingming.com/tv/渑池新闻综合.png" group-title="河南电信",渑池新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.135:11350
+#EXTINF:-1 tvg-name="叶县电视台-1" tvg-logo="https://live.fanmingming.com/tv/叶县电视台-1.png" group-title="河南电信",叶县电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.136:11360
+#EXTINF:-1 tvg-name="平顶山新闻综合" tvg-logo="https://live.fanmingming.com/tv/平顶山新闻综合.png" group-title="河南电信",平顶山新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.137:11370
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://live.fanmingming.com/tv/新乡新闻综合.png" group-title="河南电信",新乡新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.139:11390
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://live.fanmingming.com/tv/焦作综合.png" group-title="河南电信",焦作综合
+http://www.lwfz.fun:8800/rtp/239.16.20.140:11400
+#EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://live.fanmingming.com/tv/鹤壁新闻综合.png" group-title="河南电信",鹤壁新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.142:11420
+#EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/安阳新闻综合.png" group-title="河南电信",安阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://live.fanmingming.com/tv/三门峡新闻综合.png" group-title="河南电信",三门峡新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.145:11450
+#EXTINF:-1 tvg-name="平顶山城市频道" tvg-logo="https://live.fanmingming.com/tv/平顶山城市频道.png" group-title="河南电信",平顶山城市频道
+http://www.lwfz.fun:8800/rtp/239.16.20.151:11510
+#EXTINF:-1 tvg-name="平顶山公共频道" tvg-logo="https://live.fanmingming.com/tv/平顶山公共频道.png" group-title="河南电信",平顶山公共频道
+http://www.lwfz.fun:8800/rtp/239.16.20.152:11520
+#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png" group-title="河南电信",湖南金鹰纪实
+http://www.lwfz.fun:8800/rtp/239.16.20.153:11530
+#EXTINF:-1 tvg-name="新乡公共" tvg-logo="https://live.fanmingming.com/tv/新乡公共.png" group-title="河南电信",新乡公共
+http://www.lwfz.fun:8800/rtp/239.16.20.154:11540
+#EXTINF:-1 tvg-name="焦作公共" tvg-logo="https://live.fanmingming.com/tv/焦作公共.png" group-title="河南电信",焦作公共
+http://www.lwfz.fun:8800/rtp/239.16.20.155:11550
+#EXTINF:-1 tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="河南电信",SiTV法治天地
+http://www.lwfz.fun:8800/rtp/239.16.20.156:11560
+#EXTINF:-1 tvg-name="焦作教育" tvg-logo="https://live.fanmingming.com/tv/焦作教育.png" group-title="河南电信",焦作教育
+http://www.lwfz.fun:8800/rtp/239.16.20.157:11570
+#EXTINF:-1 tvg-name="百视通4K" tvg-logo="https://live.fanmingming.com/tv/百视通4K.png" group-title="河南电信",百视通4K
+http://www.lwfz.fun:8800/rtp/239.16.20.158:11580
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.20.169:11690
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共频道.png" group-title="河南电信",河南公共频道
+http://www.lwfz.fun:8800/rtp/239.16.20.170:11700
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园频道.png" group-title="河南电信",河南梨园频道
+http://www.lwfz.fun:8800/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://live.fanmingming.com/tv/河南文物宝库.png" group-title="河南电信",河南文物宝库
+http://www.lwfz.fun:8800/rtp/239.16.20.172:11720
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://live.fanmingming.com/tv/河南武术世界.png" group-title="河南电信",河南武术世界
+http://www.lwfz.fun:8800/rtp/239.16.20.173:11730
+#EXTINF:-1 tvg-name="济源-1" tvg-logo="https://live.fanmingming.com/tv/济源-1.png" group-title="河南电信",济源-1
+http://www.lwfz.fun:8800/rtp/239.16.20.174:11740
+#EXTINF:-1 tvg-name="濮阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/濮阳新闻综合.png" group-title="河南电信",濮阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.175:11750
+#EXTINF:-1 tvg-name="洛阳-2 科教频道" tvg-logo="https://live.fanmingming.com/tv/洛阳-2 科教频道.png" group-title="河南电信",洛阳-2 科教频道
+http://www.lwfz.fun:8800/rtp/239.16.20.177:11770
+#EXTINF:-1 tvg-name="洛阳-3文旅频道" tvg-logo="https://live.fanmingming.com/tv/洛阳-3文旅频道.png" group-title="河南电信",洛阳-3文旅频道
+http://www.lwfz.fun:8800/rtp/239.16.20.178:11780
+#EXTINF:-1 tvg-name="洛阳-1新闻综合" tvg-logo="https://live.fanmingming.com/tv/洛阳-1新闻综合.png" group-title="河南电信",洛阳-1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.179:11790
+#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://live.fanmingming.com/tv/新县综合.png" group-title="河南电信",新县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.183:11830
+#EXTINF:-1 tvg-name="濮阳公共" tvg-logo="https://live.fanmingming.com/tv/濮阳公共.png" group-title="河南电信",濮阳公共
+http://www.lwfz.fun:8800/rtp/239.16.20.184:11840
+#EXTINF:-1 tvg-name="卫辉电视台" tvg-logo="https://live.fanmingming.com/tv/卫辉电视台.png" group-title="河南电信",卫辉电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.191:11910
+#EXTINF:-1 tvg-name="孟津综合" tvg-logo="https://live.fanmingming.com/tv/孟津综合.png" group-title="河南电信",孟津综合
+http://www.lwfz.fun:8800/rtp/239.16.20.192:11920
+#EXTINF:-1 tvg-name="安阳科教" tvg-logo="https://live.fanmingming.com/tv/安阳科教.png" group-title="河南电信",安阳科教
+http://www.lwfz.fun:8800/rtp/239.16.20.193:11930
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村频道.png" group-title="河南电信",河南乡村频道
+http://www.lwfz.fun:8800/rtp/239.16.20.195:11950
+#EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南电信",河南国际频道
+http://www.lwfz.fun:8800/rtp/239.16.20.196:11960
+#EXTINF:-1 tvg-name="河南调解剧场" tvg-logo="https://live.fanmingming.com/tv/河南调解剧场.png" group-title="河南电信",河南调解剧场
+http://www.lwfz.fun:8800/rtp/239.16.20.197:11970
+#EXTINF:-1 tvg-name="通许综合" tvg-logo="https://live.fanmingming.com/tv/通许综合.png" group-title="河南电信",通许综合
+http://www.lwfz.fun:8800/rtp/239.16.20.198:11980
+#EXTINF:-1 tvg-name="河南卫视4K测试 6M1080" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K测试 6M1080.png" group-title="河南电信",河南卫视4K测试 6M1080
+http://www.lwfz.fun:8800/rtp/239.16.20.199:11990
+#EXTINF:-1 tvg-name="山西优购物" tvg-logo="https://live.fanmingming.com/tv/山西优购物.png" group-title="河南电信",山西优购物
+http://www.lwfz.fun:8800/rtp/239.16.20.200:12000
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="河南电信",聚鲨环球精选
+http://www.lwfz.fun:8800/rtp/239.16.20.201:12010
+#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://live.fanmingming.com/tv/江西风尚购物.png" group-title="河南电信",江西风尚购物
+http://www.lwfz.fun:8800/rtp/239.16.20.202:12020
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="河南电信",央广购物
+http://www.lwfz.fun:8800/rtp/239.16.20.203:12030
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://live.fanmingming.com/tv/河南移动电视.png" group-title="河南电信",河南移动电视
+http://www.lwfz.fun:8800/rtp/239.16.20.204:12040
+#EXTINF:-1 tvg-name="淇县电视台" tvg-logo="https://live.fanmingming.com/tv/淇县电视台.png" group-title="河南电信",淇县电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.205:12050
+#EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://live.fanmingming.com/tv/宜阳综合.png" group-title="河南电信",宜阳综合
+http://www.lwfz.fun:8800/rtp/239.16.20.206:12060
+#EXTINF:-1 tvg-name="汝阳综合频道" tvg-logo="https://live.fanmingming.com/tv/汝阳综合频道.png" group-title="河南电信",汝阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.207:12070
+#EXTINF:-1 tvg-name="原阳电视台" tvg-logo="https://live.fanmingming.com/tv/原阳电视台.png" group-title="河南电信",原阳电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.208:12080
+#EXTINF:-1 tvg-name="宝丰-1" tvg-logo="https://live.fanmingming.com/tv/宝丰-1.png" group-title="河南电信",宝丰-1
+http://www.lwfz.fun:8800/rtp/239.16.20.209:12090
+#EXTINF:-1 tvg-name="延津电视台" tvg-logo="https://live.fanmingming.com/tv/延津电视台.png" group-title="河南电信",延津电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.210:12100
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="河南电信",江西陶瓷
+http://www.lwfz.fun:8800/rtp/239.16.20.214:12140
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="河南电信",体育赛事
+http://www.lwfz.fun:8800/rtp/239.16.20.215:12150
+#EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://live.fanmingming.com/tv/大象新闻.png" group-title="河南电信",大象新闻
+http://www.lwfz.fun:8800/rtp/239.16.20.216:12160
+#EXTINF:-1 tvg-name="大剧院" tvg-logo="https://live.fanmingming.com/tv/大剧院.png" group-title="河南电信",大剧院
+http://www.lwfz.fun:8800/rtp/239.16.20.217:12170
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.223:12230
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.225:12250
+#EXTINF:-1 tvg-name="舞钢电视台-1" tvg-logo="https://live.fanmingming.com/tv/舞钢电视台-1.png" group-title="河南电信",舞钢电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.227:12270
+#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://live.fanmingming.com/tv/内黄综合.png" group-title="河南电信",内黄综合
+http://www.lwfz.fun:8800/rtp/239.16.20.228:12280
+#EXTINF:-1 tvg-name="河南欢腾购物 8M1440" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物 8M1440.png" group-title="河南电信",河南欢腾购物 8M1440
+http://www.lwfz.fun:8800/rtp/239.16.20.231:12310
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.20.232:12320
+#EXTINF:-1 tvg-name="河南欢腾购物 8M1440" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物 8M1440.png" group-title="河南电信",河南欢腾购物 8M1440
+http://www.lwfz.fun:8800/rtp/239.16.20.233:12330
+#EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://live.fanmingming.com/tv/嵩县综合新闻.png" group-title="河南电信",嵩县综合新闻
+http://www.lwfz.fun:8800/rtp/239.16.20.234:12340
+#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://live.fanmingming.com/tv/郏县综合.png" group-title="河南电信",郏县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.235:12350
+#EXTINF:-1 tvg-name="义马电视台" tvg-logo="https://live.fanmingming.com/tv/义马电视台.png" group-title="河南电信",义马电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.236:12360
+#EXTINF:-1 tvg-name="南乐综合" tvg-logo="https://live.fanmingming.com/tv/南乐综合.png" group-title="河南电信",南乐综合
+http://www.lwfz.fun:8800/rtp/239.16.20.237:12370
+#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://live.fanmingming.com/tv/4K测试.png" group-title="河南电信",4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.238:12380
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.20.239:12390
+#EXTINF:-1 tvg-name="卢氏综合" tvg-logo="https://live.fanmingming.com/tv/卢氏综合.png" group-title="河南电信",卢氏综合
+http://www.lwfz.fun:8800/rtp/239.16.20.240:12400
+#EXTINF:-1 tvg-name="平煤综合" tvg-logo="https://live.fanmingming.com/tv/平煤综合.png" group-title="河南电信",平煤综合
+http://www.lwfz.fun:8800/rtp/239.16.20.241:12410
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.20.242:12420
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南电信",大美河南
+http://www.lwfz.fun:8800/rtp/239.16.20.243:12430
+#EXTINF:-1 tvg-name="平煤安全环保" tvg-logo="https://live.fanmingming.com/tv/平煤安全环保.png" group-title="河南电信",平煤安全环保
+http://www.lwfz.fun:8800/rtp/239.16.20.244:12440
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.249:12490
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="河南电信",CGTN
+http://www.lwfz.fun:8800/rtp/239.16.20.252:12520
+#EXTINF:-1 tvg-name="百视通4K" tvg-logo="https://live.fanmingming.com/tv/百视通4K.png" group-title="河南电信",百视通4K
+http://www.lwfz.fun:8800/rtp/239.16.20.254:12540
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="河南电信",浙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.5:2000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="河南电信",湖南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.6:2000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="河南电信",东方卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.7:2000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="河南电信",江苏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.8:2000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="河南电信",安徽卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.9:2000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="河南电信",北京卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.10:2000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="河南电信",深圳卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.11:2000
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河南电信",CETV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.12:2000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="河南电信",重庆卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="河南电信",山东卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.14:2000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="河南电信",贵州卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.15:2000
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="河南电信",东南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.16:2000
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河南电信",陕西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.17:2000
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河南电信",广西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.18:2000
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河南电信",云南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.19:2000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="河南电信",四川卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.20:2000
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="河南电信",湖北卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.21:2000
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河南电信",河北卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.22:2000
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="河南电信",江西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.23:2000
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="河南电信",山西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.24:2000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河南电信",内蒙古卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.25:2000
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河南电信",宁夏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.26:2000
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河南电信",新疆卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.27:2000
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="河南电信",吉林卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.28:2000
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="河南电信",辽宁卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.29:2000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="河南电信",天津卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.30:2000
+#EXTINF:-1 tvg-name="新密综合频道" tvg-logo="https://live.fanmingming.com/tv/新密综合频道.png" group-title="河南电信",新密综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.31:2000
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://live.fanmingming.com/tv/登封综合.png" group-title="河南电信",登封综合
+http://www.lwfz.fun:8800/rtp/239.16.10.32:2000
+#EXTINF:-1 tvg-name="巩义综合" tvg-logo="https://live.fanmingming.com/tv/巩义综合.png" group-title="河南电信",巩义综合
+http://www.lwfz.fun:8800/rtp/239.16.10.33:2000
+#EXTINF:-1 tvg-name="荥阳综合频道" tvg-logo="https://live.fanmingming.com/tv/荥阳综合频道.png" group-title="河南电信",荥阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.34:2000
+#EXTINF:-1 tvg-name="新郑TV-1" tvg-logo="https://live.fanmingming.com/tv/新郑TV-1.png" group-title="河南电信",新郑TV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.35:2000
+#EXTINF:-1 tvg-name="淅川电视台-1" tvg-logo="https://live.fanmingming.com/tv/淅川电视台-1.png" group-title="河南电信",淅川电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.10.38:2000
+#EXTINF:-1 tvg-name="禹州电视台" tvg-logo="https://live.fanmingming.com/tv/禹州电视台.png" group-title="河南电信",禹州电视台
+http://www.lwfz.fun:8800/rtp/239.16.10.39:2000
+#EXTINF:-1 tvg-name="西平电视台-1" tvg-logo="https://live.fanmingming.com/tv/西平电视台-1.png" group-title="河南电信",西平电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.10.41:2000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河南电信",海南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.43:2000
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="河南电信",优漫卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.44:2000
+#EXTINF:-1 tvg-name="新蔡TV" tvg-logo="https://live.fanmingming.com/tv/新蔡TV.png" group-title="河南电信",新蔡TV
+http://www.lwfz.fun:8800/rtp/239.16.10.45:2000
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇平新闻综合.png" group-title="河南电信",镇平新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.46:2000
+#EXTINF:-1 tvg-name="许昌综合" tvg-logo="https://live.fanmingming.com/tv/许昌综合.png" group-title="河南电信",许昌综合
+http://www.lwfz.fun:8800/rtp/239.16.10.47:2000
+#EXTINF:-1 tvg-name="漯河新闻综合" tvg-logo="https://live.fanmingming.com/tv/漯河新闻综合.png" group-title="河南电信",漯河新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.49:2000
+#EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/信阳新闻综合.png" group-title="河南电信",信阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-name="驻马店2公共频道" tvg-logo="https://live.fanmingming.com/tv/驻马店2公共频道.png" group-title="河南电信",驻马店2公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.54:2000
+#EXTINF:-1 tvg-name="开封1新闻综合" tvg-logo="https://live.fanmingming.com/tv/开封1新闻综合.png" group-title="河南电信",开封1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-name="南阳1新闻综合" tvg-logo="https://live.fanmingming.com/tv/南阳1新闻综合.png" group-title="河南电信",南阳1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.58:2000
+#EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://live.fanmingming.com/tv/周口新闻综合.png" group-title="河南电信",周口新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-name="许昌农业科教" tvg-logo="https://live.fanmingming.com/tv/许昌农业科教.png" group-title="河南电信",许昌农业科教
+http://www.lwfz.fun:8800/rtp/239.16.10.60:2000
+#EXTINF:-1 tvg-name="许昌公共" tvg-logo="https://live.fanmingming.com/tv/许昌公共.png" group-title="河南电信",许昌公共
+http://www.lwfz.fun:8800/rtp/239.16.10.61:2000
+#EXTINF:-1 tvg-name="信阳文旅频道" tvg-logo="https://live.fanmingming.com/tv/信阳文旅频道.png" group-title="河南电信",信阳文旅频道
+http://www.lwfz.fun:8800/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-name="浉河广电中心" tvg-logo="https://live.fanmingming.com/tv/浉河广电中心.png" group-title="河南电信",浉河广电中心
+http://www.lwfz.fun:8800/rtp/239.16.10.72:2000
+#EXTINF:-1 tvg-name="平桥广电中心" tvg-logo="https://live.fanmingming.com/tv/平桥广电中心.png" group-title="河南电信",平桥广电中心
+http://www.lwfz.fun:8800/rtp/239.16.10.73:2000
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="河南电信",家有购物
+http://www.lwfz.fun:8800/rtp/239.16.10.75:2000
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://live.fanmingming.com/tv/河南移动戏曲.png" group-title="河南电信",河南移动戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.76:2000
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.com/tv/河南睛彩中原.png" group-title="河南电信",河南睛彩中原
+http://www.lwfz.fun:8800/rtp/239.16.10.78:2000
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://live.fanmingming.com/tv/河南移动电视.png" group-title="河南电信",河南移动电视
+http://www.lwfz.fun:8800/rtp/239.16.10.79:2000
+#EXTINF:-1 tvg-name="杞县新闻综合" tvg-logo="https://live.fanmingming.com/tv/杞县新闻综合.png" group-title="河南电信",杞县新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.80:2000
+#EXTINF:-1 tvg-name="郸城" tvg-logo="https://live.fanmingming.com/tv/郸城.png" group-title="河南电信",郸城
+http://www.lwfz.fun:8800/rtp/239.16.10.84:2000
+#EXTINF:-1 tvg-name="永城新闻联播" tvg-logo="https://live.fanmingming.com/tv/永城新闻联播.png" group-title="河南电信",永城新闻联播
+http://www.lwfz.fun:8800/rtp/239.16.10.93:2000
+#EXTINF:-1 tvg-name="光山综合" tvg-logo="https://live.fanmingming.com/tv/光山综合.png" group-title="河南电信",光山综合
+http://www.lwfz.fun:8800/rtp/239.16.10.94:2000
+#EXTINF:-1 tvg-name="唐河TV-1" tvg-logo="https://live.fanmingming.com/tv/唐河TV-1.png" group-title="河南电信",唐河TV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.95:2000
+#EXTINF:-1 tvg-name="上蔡-1" tvg-logo="https://live.fanmingming.com/tv/上蔡-1.png" group-title="河南电信",上蔡-1
+http://www.lwfz.fun:8800/rtp/239.16.10.97:2000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="河南电信",广东卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.104:2000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="河南电信",黑龙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.105:2000
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河南电信",西藏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.106:2000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河南电信",青海卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.107:2000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.1:2000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.36:2000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南电信",CCTV-2
+http://www.lwfz.fun:8800/rtp/239.16.10.127:2000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.10.2:2000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.20.253:12530
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="河南电信",CCTV-4
+http://www.lwfz.fun:8800/rtp/239.16.10.128:2000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5
+http://www.lwfz.fun:8800/rtp/239.16.10.132:2000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5+
+http://www.lwfz.fun:8800/rtp/239.16.10.3:2000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="河南电信",CCTV-6
+http://www.lwfz.fun:8800/rtp/239.16.10.101:2000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="河南电信",CCTV-7
+http://www.lwfz.fun:8800/rtp/239.16.10.130:2000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="河南电信",CCTV-8
+http://www.lwfz.fun:8800/rtp/239.16.10.102:2000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="河南电信",CCTV-9
+http://www.lwfz.fun:8800/rtp/239.16.10.103:2000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="河南电信",CCTV-10
+http://www.lwfz.fun:8800/rtp/239.16.10.108:2000
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="河南电信",CCTV-11
+http://www.lwfz.fun:8800/rtp/239.16.10.109:2000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="河南电信",CCTV-12
+http://www.lwfz.fun:8800/rtp/239.16.10.110:2000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="河南电信",CCTV-13
+http://www.lwfz.fun:8800/rtp/239.16.10.111:2000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="河南电信",CCTV-14
+http://www.lwfz.fun:8800/rtp/239.16.10.112:2000
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="河南电信",CCTV-15
+http://www.lwfz.fun:8800/rtp/239.16.10.113:2000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="河南电信",CCTV-17
+http://www.lwfz.fun:8800/rtp/239.16.10.129:2000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="河南电信",甘肃卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.114:2000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="河南电信",金鹰卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.115:2000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="河南电信",卡酷少儿
+http://www.lwfz.fun:8800/rtp/239.16.10.116:2000
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="河南电信",哈哈炫动
+http://www.lwfz.fun:8800/rtp/239.16.10.117:2000
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="河南电信",嘉佳卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.118:2000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南电信",河南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.119:2000
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png" group-title="河南电信",河南都市频道
+http://www.lwfz.fun:8800/rtp/239.16.10.120:2000
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生频道.png" group-title="河南电信",河南民生频道
+http://www.lwfz.fun:8800/rtp/239.16.10.121:2000
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治频道.png" group-title="河南电信",河南法治频道
+http://www.lwfz.fun:8800/rtp/239.16.10.122:2000
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧频道.png" group-title="河南电信",河南电视剧频道
+http://www.lwfz.fun:8800/rtp/239.16.10.123:2000
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻频道.png" group-title="河南电信",河南新闻频道
+http://www.lwfz.fun:8800/rtp/239.16.10.124:2000
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.10.125:2000
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共频道.png" group-title="河南电信",河南公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.126:2000
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.10.131:2000
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/河南戏曲.png" group-title="河南电信",河南戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.148:2000
+#EXTINF:-1 tvg-name="河南文博" tvg-logo="https://live.fanmingming.com/tv/河南文博.png" group-title="河南电信",河南文博
+http://www.lwfz.fun:8800/rtp/239.16.10.149:2000
+#EXTINF:-1 tvg-name="河南功夫" tvg-logo="https://live.fanmingming.com/tv/河南功夫.png" group-title="河南电信",河南功夫
+http://www.lwfz.fun:8800/rtp/239.16.10.150:2000
+#EXTINF:-1 tvg-name="商丘1新闻综合" tvg-logo="https://live.fanmingming.com/tv/商丘1新闻综合.png" group-title="河南电信",商丘1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.153:2000
+#EXTINF:-1 tvg-name="郑州1新闻综合" tvg-logo="https://live.fanmingming.com/tv/郑州1新闻综合.png" group-title="河南电信",郑州1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.154:2000
+#EXTINF:-1 tvg-name="郑州2商都频道" tvg-logo="https://live.fanmingming.com/tv/郑州2商都频道.png" group-title="河南电信",郑州2商都频道
+http://www.lwfz.fun:8800/rtp/239.16.10.155:2000
+#EXTINF:-1 tvg-name="郑州3文体频道" tvg-logo="https://live.fanmingming.com/tv/郑州3文体频道.png" group-title="河南电信",郑州3文体频道
+http://www.lwfz.fun:8800/rtp/239.16.10.156:2000
+#EXTINF:-1 tvg-name="郑州4影视戏曲" tvg-logo="https://live.fanmingming.com/tv/郑州4影视戏曲.png" group-title="河南电信",郑州4影视戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.157:2000
+#EXTINF:-1 tvg-name="郑州5妇女儿童" tvg-logo="https://live.fanmingming.com/tv/郑州5妇女儿童.png" group-title="河南电信",郑州5妇女儿童
+http://www.lwfz.fun:8800/rtp/239.16.10.158:2000
+#EXTINF:-1 tvg-name="郑州6都市生活" tvg-logo="https://live.fanmingming.com/tv/郑州6都市生活.png" group-title="河南电信",郑州6都市生活
+http://www.lwfz.fun:8800/rtp/239.16.10.159:2000
+#EXTINF:-1 tvg-name="南阳3科教" tvg-logo="https://live.fanmingming.com/tv/南阳3科教.png" group-title="河南电信",南阳3科教
+http://www.lwfz.fun:8800/rtp/239.16.10.164:2000
+#EXTINF:-1 tvg-name="南阳2公共" tvg-logo="https://live.fanmingming.com/tv/南阳2公共.png" group-title="河南电信",南阳2公共
+http://www.lwfz.fun:8800/rtp/239.16.10.165:2000
+#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://live.fanmingming.com/tv/新县综合.png" group-title="河南电信",新县综合
+http://www.lwfz.fun:8800/rtp/239.16.10.166:2000
+#EXTINF:-1 tvg-name="商丘2公共频道" tvg-logo="https://live.fanmingming.com/tv/商丘2公共频道.png" group-title="河南电信",商丘2公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.168:2000
+#EXTINF:-1 tvg-name="商丘3文体科教" tvg-logo="https://live.fanmingming.com/tv/商丘3文体科教.png" group-title="河南电信",商丘3文体科教
+http://www.lwfz.fun:8800/rtp/239.16.10.169:2000
+#EXTINF:-1 tvg-name="驻马店1新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/驻马店1新闻综合频道.png" group-title="河南电信",驻马店1新闻综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.170:2000
+#EXTINF:-1 tvg-name="驻马店3科教频道" tvg-logo="https://live.fanmingming.com/tv/驻马店3科教频道.png" group-title="河南电信",驻马店3科教频道
+http://www.lwfz.fun:8800/rtp/239.16.10.171:2000
+#EXTINF:-1 tvg-name="周口公共频道" tvg-logo="https://live.fanmingming.com/tv/周口公共频道.png" group-title="河南电信",周口公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.172:2000
+#EXTINF:-1 tvg-name="周口教育频道" tvg-logo="https://live.fanmingming.com/tv/周口教育频道.png" group-title="河南电信",周口教育频道
+http://www.lwfz.fun:8800/rtp/239.16.10.173:2000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="河南电信",CGTN
+http://www.lwfz.fun:8800/rtp/239.16.10.175:2000
+#EXTINF:-1 tvg-name="开封2文化旅游" tvg-logo="https://live.fanmingming.com/tv/开封2文化旅游.png" group-title="河南电信",开封2文化旅游
+http://www.lwfz.fun:8800/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-name="舞阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/舞阳新闻综合.png" group-title="河南电信",舞阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.179:2000
+#EXTINF:-1 tvg-name="临颍综合" tvg-logo="https://live.fanmingming.com/tv/临颍综合.png" group-title="河南电信",临颍综合
+http://www.lwfz.fun:8800/rtp/239.16.10.180:2000
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村频道.png" group-title="河南电信",河南乡村频道
+http://www.lwfz.fun:8800/rtp/239.16.10.181:2000
+#EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南电信",河南国际频道
+http://www.lwfz.fun:8800/rtp/239.16.10.182:2000
+#EXTINF:-1 tvg-name="百姓调解" tvg-logo="https://live.fanmingming.com/tv/百姓调解.png" group-title="河南电信",百姓调解
+http://www.lwfz.fun:8800/rtp/239.16.10.183:2000
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://live.fanmingming.com/tv/美食汇.png" group-title="河南电信",美食汇
+http://www.lwfz.fun:8800/rtp/239.16.10.185:2000
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://live.fanmingming.com/tv/棋牌汇.png" group-title="河南电信",棋牌汇
+http://www.lwfz.fun:8800/rtp/239.16.10.186:2000
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="河南电信",纪实人文
+http://www.lwfz.fun:8800/rtp/239.16.10.190:2000
+#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.com/tv/未知.png" group-title="河南电信",未知
+http://www.lwfz.fun:8800/rtp/239.16.10.191:2000
+#EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://live.fanmingming.com/tv/大象新闻.png" group-title="河南电信",大象新闻
+http://www.lwfz.fun:8800/rtp/239.16.10.192:2000
+#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.com/tv/未知.png" group-title="河南电信",未知
+http://www.lwfz.fun:8800/rtp/239.16.10.193:2000
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="河南电信",优购物
+http://www.lwfz.fun:8800/rtp/239.16.10.205:2000
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="河南电信",聚鲨环球精选
+http://www.lwfz.fun:8800/rtp/239.16.10.206:2000
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="河南电信",风尚购物
+http://www.lwfz.fun:8800/rtp/239.16.10.207:2000
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="河南电信",央广购物
+http://www.lwfz.fun:8800/rtp/239.16.10.208:2000
+#EXTINF:-1 tvg-name="河南4K实验 6M2160" tvg-logo="https://live.fanmingming.com/tv/河南4K实验 6M2160.png" group-title="河南电信",河南4K实验 6M2160
+http://www.lwfz.fun:8800/rtp/239.16.10.210:2000
+#EXTINF:-1 tvg-name="项城电视台" tvg-logo="https://live.fanmingming.com/tv/项城电视台.png" group-title="河南电信",项城电视台
+http://www.lwfz.fun:8800/rtp/239.16.10.214:2000
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.10.216:2000
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.10.217:2000
+#EXTINF:-1 tvg-name="河南IPTV导视" tvg-logo="https://live.fanmingming.com/tv/河南IPTV导视.png" group-title="河南电信",河南IPTV导视
+http://www.lwfz.fun:8800/rtp/239.16.10.218:2000
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="河南电信",SiTV都市剧场
+http://www.lwfz.fun:8800/rtp/239.16.10.232:2000
+#EXTINF:-1 tvg-name="SiTV欢笑剧场 720" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场 720.png" group-title="河南电信",SiTV欢笑剧场 720
+http://www.lwfz.fun:8800/rtp/239.16.10.233:2000
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="河南电信",SiTV动漫秀场
+http://www.lwfz.fun:8800/rtp/239.16.10.234:2000
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png" group-title="河南电信",SiTV东方财经
+http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南电信",河南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.21:10210
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png" group-title="河南电信",河南都市频道
+http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生频道.png" group-title="河南电信",河南民生频道
+http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治频道.png" group-title="河南电信",河南法治频道
+http://www.lwfz.fun:8800/rtp/239.16.20.166:11660
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧频道.png" group-title="河南电信",河南电视剧频道
+http://www.lwfz.fun:8800/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻频道.png" group-title="河南电信",河南新闻频道
+http://www.lwfz.fun:8800/rtp/239.16.20.168:11680
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南电信",大美河南
+http://www.lwfz.fun:8800/rtp/239.16.20.17:10170
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.1:10010
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南电信",CCTV-2
+http://www.lwfz.fun:8800/rtp/239.16.20.2:10020
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.20.3:10030
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="河南电信",CCTV-4
+http://www.lwfz.fun:8800/rtp/239.16.20.4:10040
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5
+http://www.lwfz.fun:8800/rtp/239.16.20.53:10530
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5+
+http://www.lwfz.fun:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="河南电信",CCTV-6
+http://www.lwfz.fun:8800/rtp/239.16.20.6:10060
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="河南电信",CCTV-7
+http://www.lwfz.fun:8800/rtp/239.16.20.51:10510
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="河南电信",CCTV-8
+http://www.lwfz.fun:8800/rtp/239.16.20.8:10080
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="河南电信",CCTV-9
+http://www.lwfz.fun:8800/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="河南电信",CCTV-10
+http://www.lwfz.fun:8800/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="河南电信",CCTV-11
+http://www.lwfz.fun:8800/rtp/239.16.20.11:10110
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="河南电信",CCTV-12
+http://www.lwfz.fun:8800/rtp/239.16.20.12:10120
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="河南电信",CCTV-13
+http://www.lwfz.fun:8800/rtp/239.16.20.13:10130
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="河南电信",CCTV-14 720
+http://www.lwfz.fun:8800/rtp/239.16.20.14:10140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="河南电信",CCTV-15
+http://www.lwfz.fun:8800/rtp/239.16.20.15:10150
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="河南电信",CCTV-16
+http://www.lwfz.fun:8800/rtp/239.16.20.34:10340
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="河南电信",CCTV-17
+http://www.lwfz.fun:8800/rtp/239.16.20.7:10070
+#EXTINF:-1 tvg-name="新乡县综合" tvg-logo="https://live.fanmingming.com/tv/新乡县综合.png" group-title="河南电信",新乡县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.18:10180
+#EXTINF:-1 tvg-name="封丘1新闻综合" tvg-logo="https://live.fanmingming.com/tv/封丘1新闻综合.png" group-title="河南电信",封丘1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.19:10190
+#EXTINF:-1 tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="河南电信",邓州综合
+http://www.lwfz.fun:8800/rtp/239.16.20.20:10200
+#EXTINF:-1 tvg-name="获嘉综合" tvg-logo="https://live.fanmingming.com/tv/获嘉综合.png" group-title="河南电信",获嘉综合
+http://www.lwfz.fun:8800/rtp/239.16.20.25:10250
+#EXTINF:-1 tvg-name="平顶山教育台" tvg-logo="https://live.fanmingming.com/tv/平顶山教育台.png" group-title="河南电信",平顶山教育台
+http://www.lwfz.fun:8800/rtp/239.16.20.27:10270
+#EXTINF:-1 tvg-name="大剧院" tvg-logo="https://live.fanmingming.com/tv/大剧院.png" group-title="河南电信",大剧院
+http://www.lwfz.fun:8800/rtp/239.16.20.29:10290
+#EXTINF:-1 tvg-name="平煤综合" tvg-logo="https://live.fanmingming.com/tv/平煤综合.png" group-title="河南电信",平煤综合
+http://www.lwfz.fun:8800/rtp/239.16.20.30:10300
+#EXTINF:-1 tvg-name="平煤安全环保" tvg-logo="https://live.fanmingming.com/tv/平煤安全环保.png" group-title="河南电信",平煤安全环保
+http://www.lwfz.fun:8800/rtp/239.16.20.31:10310
+#EXTINF:-1 tvg-name="叶县电视台-1" tvg-logo="https://live.fanmingming.com/tv/叶县电视台-1.png" group-title="河南电信",叶县电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.32:10320
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="河南电信",SiTV都市剧场
+http://www.lwfz.fun:8800/rtp/239.16.20.38:10380
+#EXTINF:-1 tvg-name="SiTV欢笑剧场 720" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场 720.png" group-title="河南电信",SiTV欢笑剧场 720
+http://www.lwfz.fun:8800/rtp/239.16.20.39:10390
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="河南电信",SiTV动漫秀场
+http://www.lwfz.fun:8800/rtp/239.16.20.40:10400
+#EXTINF:-1 tvg-name="新密综合频道" tvg-logo="https://live.fanmingming.com/tv/新密综合频道.png" group-title="河南电信",新密综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.41:10410
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://live.fanmingming.com/tv/登封综合.png" group-title="河南电信",登封综合
+http://www.lwfz.fun:8800/rtp/239.16.20.42:10420
+#EXTINF:-1 tvg-name="巩义综合" tvg-logo="https://live.fanmingming.com/tv/巩义综合.png" group-title="河南电信",巩义综合
+http://www.lwfz.fun:8800/rtp/239.16.20.43:10430
+#EXTINF:-1 tvg-name="荥阳综合频道" tvg-logo="https://live.fanmingming.com/tv/荥阳综合频道.png" group-title="河南电信",荥阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.44:10440
+#EXTINF:-1 tvg-name="新郑TV-1" tvg-logo="https://live.fanmingming.com/tv/新郑TV-1.png" group-title="河南电信",新郑TV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.45:10450
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://live.fanmingming.com/tv/渑池新闻综合.png" group-title="河南电信",渑池新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.47:10470
+#EXTINF:-1 tvg-name="淅川电视台-1" tvg-logo="https://live.fanmingming.com/tv/淅川电视台-1.png" group-title="河南电信",淅川电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.48:10480
+#EXTINF:-1 tvg-name="新蔡TV" tvg-logo="https://live.fanmingming.com/tv/新蔡TV.png" group-title="河南电信",新蔡TV
+http://www.lwfz.fun:8800/rtp/239.16.20.49:10490
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇平新闻综合.png" group-title="河南电信",镇平新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.50:10500
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.20.52:10520
+#EXTINF:-1 tvg-name="灵宝综合频道" tvg-logo="https://live.fanmingming.com/tv/灵宝综合频道.png" group-title="河南电信",灵宝综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.59:10590
+#EXTINF:-1 tvg-name="宝丰TV-1" tvg-logo="https://live.fanmingming.com/tv/宝丰TV-1.png" group-title="河南电信",宝丰TV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.63:10630
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png" group-title="河南电信",SiTV东方财经
+http://www.lwfz.fun:8800/rtp/239.16.20.64:10640
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="河南电信",湖南快乐垂钓
+http://www.lwfz.fun:8800/rtp/239.16.20.67:10670
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南茶频道.png" group-title="河南电信",湖南茶频道
+http://www.lwfz.fun:8800/rtp/239.16.20.68:10680
+#EXTINF:-1 tvg-name="湖南先锋乒羽 720" tvg-logo="https://live.fanmingming.com/tv/湖南先锋乒羽 720.png" group-title="河南电信",湖南先锋乒羽 720
+http://www.lwfz.fun:8800/rtp/239.16.20.69:10690
+#EXTINF:-1 tvg-name="NNM家庭理财" tvg-logo="https://live.fanmingming.com/tv/NNM家庭理财.png" group-title="河南电信",NNM家庭理财
+http://www.lwfz.fun:8800/rtp/239.16.20.70:10700
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="河南电信",浙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.71:10710
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="河南电信",湖南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.72:10720
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="河南电信",东方卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.73:10730
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="河南电信",江苏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.74:10740
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="河南电信",安徽卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.75:10750
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="河南电信",北京卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.76:10760
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="河南电信",深圳卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.77:10770
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河南电信",CETV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.78:10780
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="河南电信",重庆卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="河南电信",山东卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.80:10800
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="河南电信",贵州卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.81:10810
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="河南电信",东南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.82:10820
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河南电信",陕西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.83:10830
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河南电信",广西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.84:10840
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河南电信",云南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.85:10850
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="河南电信",四川卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.86:10860
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="河南电信",湖北卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.87:10870
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河南电信",河北卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.88:10880
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="河南电信",江西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.89:10890
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="河南电信",山西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.90:10900
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河南电信",内蒙古卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.91:10910
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河南电信",宁夏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.92:10920
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河南电信",新疆卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.93:10930
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="河南电信",吉林卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.94:10940
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="河南电信",辽宁卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.95:10950
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="河南电信",天津卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.96:10960
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河南电信",海南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.97:10970
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="河南电信",广东卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.98:10980
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="河南电信",黑龙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河南电信",西藏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.100:11000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河南电信",青海卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.101:11010
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="河南电信",甘肃卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.102:11020
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="河南电信",江苏优漫卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.103:11030
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="河南电信",湖南金鹰卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.104:11040
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="河南电信",北京卡酷少儿
+http://www.lwfz.fun:8800/rtp/239.16.20.105:11050
+#EXTINF:-1 tvg-name="上海哈哈炫动 720" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动 720.png" group-title="河南电信",上海哈哈炫动 720
+http://www.lwfz.fun:8800/rtp/239.16.20.106:11060
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/广东嘉佳卡通.png" group-title="河南电信",广东嘉佳卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.107:11070
+#EXTINF:-1 tvg-name="南乐综合" tvg-logo="https://live.fanmingming.com/tv/南乐综合.png" group-title="河南电信",南乐综合
+http://www.lwfz.fun:8800/rtp/239.16.20.108:11080
+#EXTINF:-1 tvg-name="义马电视台" tvg-logo="https://live.fanmingming.com/tv/义马电视台.png" group-title="河南电信",义马电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.109:11090
+#EXTINF:-1 tvg-name="SiTV乐游" tvg-logo="https://live.fanmingming.com/tv/SiTV乐游.png" group-title="河南电信",SiTV乐游
+http://www.lwfz.fun:8800/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="河南电信",SiTV游戏风云
+http://www.lwfz.fun:8800/rtp/239.16.20.112:11120
+#EXTINF:-1 tvg-name="SiTV极速汽车" tvg-logo="https://live.fanmingming.com/tv/SiTV极速汽车.png" group-title="河南电信",SiTV极速汽车
+http://www.lwfz.fun:8800/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-name="SiTV生活时尚" tvg-logo="https://live.fanmingming.com/tv/SiTV生活时尚.png" group-title="河南电信",SiTV生活时尚
+http://www.lwfz.fun:8800/rtp/239.16.20.114:11140
+#EXTINF:-1 tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="河南电信",SiTV金色学堂
+http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://live.fanmingming.com/tv/美食汇.png" group-title="河南电信",美食汇
+http://www.lwfz.fun:8800/rtp/239.16.20.117:11170
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://live.fanmingming.com/tv/棋牌汇.png" group-title="河南电信",棋牌汇
+http://www.lwfz.fun:8800/rtp/239.16.20.118:11180
+#EXTINF:-1 tvg-name="北京家有购物" tvg-logo="https://live.fanmingming.com/tv/北京家有购物.png" group-title="河南电信",北京家有购物
+http://www.lwfz.fun:8800/rtp/239.16.20.119:11190
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://live.fanmingming.com/tv/河南移动戏曲.png" group-title="河南电信",河南移动戏曲
+http://www.lwfz.fun:8800/rtp/239.16.20.120:11200
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.com/tv/河南睛彩中原.png" group-title="河南电信",河南睛彩中原
+http://www.lwfz.fun:8800/rtp/239.16.20.122:11220
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="河南电信",江西陶瓷
+http://www.lwfz.fun:8800/rtp/239.16.20.124:11240
+#EXTINF:-1 tvg-name="摄影频道" tvg-logo="https://live.fanmingming.com/tv/摄影频道.png" group-title="河南电信",摄影频道
+http://www.lwfz.fun:8800/rtp/239.16.20.125:11250
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="河南电信",天元围棋
+http://www.lwfz.fun:8800/rtp/239.16.20.126:11260
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="河南电信",体育赛事
+http://www.lwfz.fun:8800/rtp/239.16.20.128:11280
+#EXTINF:-1 tvg-name="江苏财富天下 720" tvg-logo="https://live.fanmingming.com/tv/江苏财富天下 720.png" group-title="河南电信",江苏财富天下 720
+http://www.lwfz.fun:8800/rtp/239.16.20.129:11290
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="河南电信",书画频道
+http://www.lwfz.fun:8800/rtp/239.16.20.130:11300
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="河南电信",环球旅游
+http://www.lwfz.fun:8800/rtp/239.16.20.131:11310
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="河南电信",中华特产
+http://www.lwfz.fun:8800/rtp/239.16.20.132:11320
+#EXTINF:-1 tvg-name="中央新影老故事" tvg-logo="https://live.fanmingming.com/tv/中央新影老故事.png" group-title="河南电信",中央新影老故事
+http://www.lwfz.fun:8800/rtp/239.16.20.133:11330
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.com/tv/车迷频道.png" group-title="河南电信",车迷频道
+http://www.lwfz.fun:8800/rtp/239.16.20.134:11340
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://live.fanmingming.com/tv/渑池新闻综合.png" group-title="河南电信",渑池新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.135:11350
+#EXTINF:-1 tvg-name="叶县电视台-1" tvg-logo="https://live.fanmingming.com/tv/叶县电视台-1.png" group-title="河南电信",叶县电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.136:11360
+#EXTINF:-1 tvg-name="平顶山新闻综合" tvg-logo="https://live.fanmingming.com/tv/平顶山新闻综合.png" group-title="河南电信",平顶山新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.137:11370
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://live.fanmingming.com/tv/新乡新闻综合.png" group-title="河南电信",新乡新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.139:11390
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://live.fanmingming.com/tv/焦作综合.png" group-title="河南电信",焦作综合
+http://www.lwfz.fun:8800/rtp/239.16.20.140:11400
+#EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://live.fanmingming.com/tv/鹤壁新闻综合.png" group-title="河南电信",鹤壁新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.142:11420
+#EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/安阳新闻综合.png" group-title="河南电信",安阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://live.fanmingming.com/tv/三门峡新闻综合.png" group-title="河南电信",三门峡新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.145:11450
+#EXTINF:-1 tvg-name="平顶山城市频道" tvg-logo="https://live.fanmingming.com/tv/平顶山城市频道.png" group-title="河南电信",平顶山城市频道
+http://www.lwfz.fun:8800/rtp/239.16.20.151:11510
+#EXTINF:-1 tvg-name="平顶山公共频道" tvg-logo="https://live.fanmingming.com/tv/平顶山公共频道.png" group-title="河南电信",平顶山公共频道
+http://www.lwfz.fun:8800/rtp/239.16.20.152:11520
+#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png" group-title="河南电信",湖南金鹰纪实
+http://www.lwfz.fun:8800/rtp/239.16.20.153:11530
+#EXTINF:-1 tvg-name="新乡公共" tvg-logo="https://live.fanmingming.com/tv/新乡公共.png" group-title="河南电信",新乡公共
+http://www.lwfz.fun:8800/rtp/239.16.20.154:11540
+#EXTINF:-1 tvg-name="焦作公共" tvg-logo="https://live.fanmingming.com/tv/焦作公共.png" group-title="河南电信",焦作公共
+http://www.lwfz.fun:8800/rtp/239.16.20.155:11550
+#EXTINF:-1 tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="河南电信",SiTV法治天地
+http://www.lwfz.fun:8800/rtp/239.16.20.156:11560
+#EXTINF:-1 tvg-name="焦作教育" tvg-logo="https://live.fanmingming.com/tv/焦作教育.png" group-title="河南电信",焦作教育
+http://www.lwfz.fun:8800/rtp/239.16.20.157:11570
+#EXTINF:-1 tvg-name="百视通4K" tvg-logo="https://live.fanmingming.com/tv/百视通4K.png" group-title="河南电信",百视通4K
+http://www.lwfz.fun:8800/rtp/239.16.20.158:11580
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.20.169:11690
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共频道.png" group-title="河南电信",河南公共频道
+http://www.lwfz.fun:8800/rtp/239.16.20.170:11700
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园频道.png" group-title="河南电信",河南梨园频道
+http://www.lwfz.fun:8800/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://live.fanmingming.com/tv/河南文物宝库.png" group-title="河南电信",河南文物宝库
+http://www.lwfz.fun:8800/rtp/239.16.20.172:11720
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://live.fanmingming.com/tv/河南武术世界.png" group-title="河南电信",河南武术世界
+http://www.lwfz.fun:8800/rtp/239.16.20.173:11730
+#EXTINF:-1 tvg-name="济源-1" tvg-logo="https://live.fanmingming.com/tv/济源-1.png" group-title="河南电信",济源-1
+http://www.lwfz.fun:8800/rtp/239.16.20.174:11740
+#EXTINF:-1 tvg-name="濮阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/濮阳新闻综合.png" group-title="河南电信",濮阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.175:11750
+#EXTINF:-1 tvg-name="洛阳-2 科教频道" tvg-logo="https://live.fanmingming.com/tv/洛阳-2 科教频道.png" group-title="河南电信",洛阳-2 科教频道
+http://www.lwfz.fun:8800/rtp/239.16.20.177:11770
+#EXTINF:-1 tvg-name="洛阳-3文旅频道" tvg-logo="https://live.fanmingming.com/tv/洛阳-3文旅频道.png" group-title="河南电信",洛阳-3文旅频道
+http://www.lwfz.fun:8800/rtp/239.16.20.178:11780
+#EXTINF:-1 tvg-name="洛阳-1新闻综合" tvg-logo="https://live.fanmingming.com/tv/洛阳-1新闻综合.png" group-title="河南电信",洛阳-1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.179:11790
+#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://live.fanmingming.com/tv/新县综合.png" group-title="河南电信",新县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.183:11830
+#EXTINF:-1 tvg-name="濮阳公共" tvg-logo="https://live.fanmingming.com/tv/濮阳公共.png" group-title="河南电信",濮阳公共
+http://www.lwfz.fun:8800/rtp/239.16.20.184:11840
+#EXTINF:-1 tvg-name="卫辉电视台" tvg-logo="https://live.fanmingming.com/tv/卫辉电视台.png" group-title="河南电信",卫辉电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.191:11910
+#EXTINF:-1 tvg-name="孟津综合" tvg-logo="https://live.fanmingming.com/tv/孟津综合.png" group-title="河南电信",孟津综合
+http://www.lwfz.fun:8800/rtp/239.16.20.192:11920
+#EXTINF:-1 tvg-name="安阳科教" tvg-logo="https://live.fanmingming.com/tv/安阳科教.png" group-title="河南电信",安阳科教
+http://www.lwfz.fun:8800/rtp/239.16.20.193:11930
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村频道.png" group-title="河南电信",河南乡村频道
+http://www.lwfz.fun:8800/rtp/239.16.20.195:11950
+#EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南电信",河南国际频道
+http://www.lwfz.fun:8800/rtp/239.16.20.196:11960
+#EXTINF:-1 tvg-name="河南调解剧场" tvg-logo="https://live.fanmingming.com/tv/河南调解剧场.png" group-title="河南电信",河南调解剧场
+http://www.lwfz.fun:8800/rtp/239.16.20.197:11970
+#EXTINF:-1 tvg-name="通许综合" tvg-logo="https://live.fanmingming.com/tv/通许综合.png" group-title="河南电信",通许综合
+http://www.lwfz.fun:8800/rtp/239.16.20.198:11980
+#EXTINF:-1 tvg-name="河南卫视4K测试 6M1080" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K测试 6M1080.png" group-title="河南电信",河南卫视4K测试 6M1080
+http://www.lwfz.fun:8800/rtp/239.16.20.199:11990
+#EXTINF:-1 tvg-name="山西优购物" tvg-logo="https://live.fanmingming.com/tv/山西优购物.png" group-title="河南电信",山西优购物
+http://www.lwfz.fun:8800/rtp/239.16.20.200:12000
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="河南电信",聚鲨环球精选
+http://www.lwfz.fun:8800/rtp/239.16.20.201:12010
+#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://live.fanmingming.com/tv/江西风尚购物.png" group-title="河南电信",江西风尚购物
+http://www.lwfz.fun:8800/rtp/239.16.20.202:12020
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="河南电信",央广购物
+http://www.lwfz.fun:8800/rtp/239.16.20.203:12030
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://live.fanmingming.com/tv/河南移动电视.png" group-title="河南电信",河南移动电视
+http://www.lwfz.fun:8800/rtp/239.16.20.204:12040
+#EXTINF:-1 tvg-name="淇县电视台" tvg-logo="https://live.fanmingming.com/tv/淇县电视台.png" group-title="河南电信",淇县电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.205:12050
+#EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://live.fanmingming.com/tv/宜阳综合.png" group-title="河南电信",宜阳综合
+http://www.lwfz.fun:8800/rtp/239.16.20.206:12060
+#EXTINF:-1 tvg-name="汝阳综合频道" tvg-logo="https://live.fanmingming.com/tv/汝阳综合频道.png" group-title="河南电信",汝阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.207:12070
+#EXTINF:-1 tvg-name="原阳电视台" tvg-logo="https://live.fanmingming.com/tv/原阳电视台.png" group-title="河南电信",原阳电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.208:12080
+#EXTINF:-1 tvg-name="宝丰-1" tvg-logo="https://live.fanmingming.com/tv/宝丰-1.png" group-title="河南电信",宝丰-1
+http://www.lwfz.fun:8800/rtp/239.16.20.209:12090
+#EXTINF:-1 tvg-name="延津电视台" tvg-logo="https://live.fanmingming.com/tv/延津电视台.png" group-title="河南电信",延津电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.210:12100
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="河南电信",江西陶瓷
+http://www.lwfz.fun:8800/rtp/239.16.20.214:12140
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="河南电信",体育赛事
+http://www.lwfz.fun:8800/rtp/239.16.20.215:12150
+#EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://live.fanmingming.com/tv/大象新闻.png" group-title="河南电信",大象新闻
+http://www.lwfz.fun:8800/rtp/239.16.20.216:12160
+#EXTINF:-1 tvg-name="大剧院" tvg-logo="https://live.fanmingming.com/tv/大剧院.png" group-title="河南电信",大剧院
+http://www.lwfz.fun:8800/rtp/239.16.20.217:12170
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.223:12230
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.225:12250
+#EXTINF:-1 tvg-name="舞钢电视台-1" tvg-logo="https://live.fanmingming.com/tv/舞钢电视台-1.png" group-title="河南电信",舞钢电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.227:12270
+#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://live.fanmingming.com/tv/内黄综合.png" group-title="河南电信",内黄综合
+http://www.lwfz.fun:8800/rtp/239.16.20.228:12280
+#EXTINF:-1 tvg-name="河南欢腾购物 8M1440" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物 8M1440.png" group-title="河南电信",河南欢腾购物 8M1440
+http://www.lwfz.fun:8800/rtp/239.16.20.231:12310
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.20.232:12320
+#EXTINF:-1 tvg-name="河南欢腾购物 8M1440" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物 8M1440.png" group-title="河南电信",河南欢腾购物 8M1440
+http://www.lwfz.fun:8800/rtp/239.16.20.233:12330
+#EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://live.fanmingming.com/tv/嵩县综合新闻.png" group-title="河南电信",嵩县综合新闻
+http://www.lwfz.fun:8800/rtp/239.16.20.234:12340
+#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://live.fanmingming.com/tv/郏县综合.png" group-title="河南电信",郏县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.235:12350
+#EXTINF:-1 tvg-name="义马电视台" tvg-logo="https://live.fanmingming.com/tv/义马电视台.png" group-title="河南电信",义马电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.236:12360
+#EXTINF:-1 tvg-name="南乐综合" tvg-logo="https://live.fanmingming.com/tv/南乐综合.png" group-title="河南电信",南乐综合
+http://www.lwfz.fun:8800/rtp/239.16.20.237:12370
+#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://live.fanmingming.com/tv/4K测试.png" group-title="河南电信",4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.238:12380
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.20.239:12390
+#EXTINF:-1 tvg-name="卢氏综合" tvg-logo="https://live.fanmingming.com/tv/卢氏综合.png" group-title="河南电信",卢氏综合
+http://www.lwfz.fun:8800/rtp/239.16.20.240:12400
+#EXTINF:-1 tvg-name="平煤综合" tvg-logo="https://live.fanmingming.com/tv/平煤综合.png" group-title="河南电信",平煤综合
+http://www.lwfz.fun:8800/rtp/239.16.20.241:12410
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.20.242:12420
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南电信",大美河南
+http://www.lwfz.fun:8800/rtp/239.16.20.243:12430
+#EXTINF:-1 tvg-name="平煤安全环保" tvg-logo="https://live.fanmingming.com/tv/平煤安全环保.png" group-title="河南电信",平煤安全环保
+http://www.lwfz.fun:8800/rtp/239.16.20.244:12440
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.249:12490
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="河南电信",CGTN
+http://www.lwfz.fun:8800/rtp/239.16.20.252:12520
+#EXTINF:-1 tvg-name="百视通4K" tvg-logo="https://live.fanmingming.com/tv/百视通4K.png" group-title="河南电信",百视通4K
+http://www.lwfz.fun:8800/rtp/239.16.20.254:12540
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="河南电信",浙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.5:2000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="河南电信",湖南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.6:2000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="河南电信",东方卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.7:2000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="河南电信",江苏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.8:2000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="河南电信",安徽卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.9:2000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="河南电信",北京卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.10:2000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="河南电信",深圳卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.11:2000
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河南电信",CETV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.12:2000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="河南电信",重庆卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="河南电信",山东卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.14:2000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="河南电信",贵州卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.15:2000
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="河南电信",东南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.16:2000
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河南电信",陕西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.17:2000
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河南电信",广西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.18:2000
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河南电信",云南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.19:2000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="河南电信",四川卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.20:2000
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="河南电信",湖北卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.21:2000
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河南电信",河北卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.22:2000
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="河南电信",江西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.23:2000
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="河南电信",山西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.24:2000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河南电信",内蒙古卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.25:2000
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河南电信",宁夏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.26:2000
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河南电信",新疆卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.27:2000
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="河南电信",吉林卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.28:2000
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="河南电信",辽宁卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.29:2000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="河南电信",天津卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.30:2000
+#EXTINF:-1 tvg-name="新密综合频道" tvg-logo="https://live.fanmingming.com/tv/新密综合频道.png" group-title="河南电信",新密综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.31:2000
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://live.fanmingming.com/tv/登封综合.png" group-title="河南电信",登封综合
+http://www.lwfz.fun:8800/rtp/239.16.10.32:2000
+#EXTINF:-1 tvg-name="巩义综合" tvg-logo="https://live.fanmingming.com/tv/巩义综合.png" group-title="河南电信",巩义综合
+http://www.lwfz.fun:8800/rtp/239.16.10.33:2000
+#EXTINF:-1 tvg-name="荥阳综合频道" tvg-logo="https://live.fanmingming.com/tv/荥阳综合频道.png" group-title="河南电信",荥阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.34:2000
+#EXTINF:-1 tvg-name="新郑TV-1" tvg-logo="https://live.fanmingming.com/tv/新郑TV-1.png" group-title="河南电信",新郑TV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.35:2000
+#EXTINF:-1 tvg-name="淅川电视台-1" tvg-logo="https://live.fanmingming.com/tv/淅川电视台-1.png" group-title="河南电信",淅川电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.10.38:2000
+#EXTINF:-1 tvg-name="禹州电视台" tvg-logo="https://live.fanmingming.com/tv/禹州电视台.png" group-title="河南电信",禹州电视台
+http://www.lwfz.fun:8800/rtp/239.16.10.39:2000
+#EXTINF:-1 tvg-name="西平电视台-1" tvg-logo="https://live.fanmingming.com/tv/西平电视台-1.png" group-title="河南电信",西平电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.10.41:2000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河南电信",海南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.43:2000
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="河南电信",优漫卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.44:2000
+#EXTINF:-1 tvg-name="新蔡TV" tvg-logo="https://live.fanmingming.com/tv/新蔡TV.png" group-title="河南电信",新蔡TV
+http://www.lwfz.fun:8800/rtp/239.16.10.45:2000
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇平新闻综合.png" group-title="河南电信",镇平新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.46:2000
+#EXTINF:-1 tvg-name="许昌综合" tvg-logo="https://live.fanmingming.com/tv/许昌综合.png" group-title="河南电信",许昌综合
+http://www.lwfz.fun:8800/rtp/239.16.10.47:2000
+#EXTINF:-1 tvg-name="漯河新闻综合" tvg-logo="https://live.fanmingming.com/tv/漯河新闻综合.png" group-title="河南电信",漯河新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.49:2000
+#EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/信阳新闻综合.png" group-title="河南电信",信阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-name="驻马店2公共频道" tvg-logo="https://live.fanmingming.com/tv/驻马店2公共频道.png" group-title="河南电信",驻马店2公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.54:2000
+#EXTINF:-1 tvg-name="开封1新闻综合" tvg-logo="https://live.fanmingming.com/tv/开封1新闻综合.png" group-title="河南电信",开封1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-name="南阳1新闻综合" tvg-logo="https://live.fanmingming.com/tv/南阳1新闻综合.png" group-title="河南电信",南阳1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.58:2000
+#EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://live.fanmingming.com/tv/周口新闻综合.png" group-title="河南电信",周口新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-name="许昌农业科教" tvg-logo="https://live.fanmingming.com/tv/许昌农业科教.png" group-title="河南电信",许昌农业科教
+http://www.lwfz.fun:8800/rtp/239.16.10.60:2000
+#EXTINF:-1 tvg-name="许昌公共" tvg-logo="https://live.fanmingming.com/tv/许昌公共.png" group-title="河南电信",许昌公共
+http://www.lwfz.fun:8800/rtp/239.16.10.61:2000
+#EXTINF:-1 tvg-name="信阳文旅频道" tvg-logo="https://live.fanmingming.com/tv/信阳文旅频道.png" group-title="河南电信",信阳文旅频道
+http://www.lwfz.fun:8800/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-name="浉河广电中心" tvg-logo="https://live.fanmingming.com/tv/浉河广电中心.png" group-title="河南电信",浉河广电中心
+http://www.lwfz.fun:8800/rtp/239.16.10.72:2000
+#EXTINF:-1 tvg-name="平桥广电中心" tvg-logo="https://live.fanmingming.com/tv/平桥广电中心.png" group-title="河南电信",平桥广电中心
+http://www.lwfz.fun:8800/rtp/239.16.10.73:2000
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="河南电信",家有购物
+http://www.lwfz.fun:8800/rtp/239.16.10.75:2000
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://live.fanmingming.com/tv/河南移动戏曲.png" group-title="河南电信",河南移动戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.76:2000
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.com/tv/河南睛彩中原.png" group-title="河南电信",河南睛彩中原
+http://www.lwfz.fun:8800/rtp/239.16.10.78:2000
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://live.fanmingming.com/tv/河南移动电视.png" group-title="河南电信",河南移动电视
+http://www.lwfz.fun:8800/rtp/239.16.10.79:2000
+#EXTINF:-1 tvg-name="杞县新闻综合" tvg-logo="https://live.fanmingming.com/tv/杞县新闻综合.png" group-title="河南电信",杞县新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.80:2000
+#EXTINF:-1 tvg-name="郸城" tvg-logo="https://live.fanmingming.com/tv/郸城.png" group-title="河南电信",郸城
+http://www.lwfz.fun:8800/rtp/239.16.10.84:2000
+#EXTINF:-1 tvg-name="永城新闻联播" tvg-logo="https://live.fanmingming.com/tv/永城新闻联播.png" group-title="河南电信",永城新闻联播
+http://www.lwfz.fun:8800/rtp/239.16.10.93:2000
+#EXTINF:-1 tvg-name="光山综合" tvg-logo="https://live.fanmingming.com/tv/光山综合.png" group-title="河南电信",光山综合
+http://www.lwfz.fun:8800/rtp/239.16.10.94:2000
+#EXTINF:-1 tvg-name="唐河TV-1" tvg-logo="https://live.fanmingming.com/tv/唐河TV-1.png" group-title="河南电信",唐河TV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.95:2000
+#EXTINF:-1 tvg-name="上蔡-1" tvg-logo="https://live.fanmingming.com/tv/上蔡-1.png" group-title="河南电信",上蔡-1
+http://www.lwfz.fun:8800/rtp/239.16.10.97:2000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="河南电信",广东卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.104:2000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="河南电信",黑龙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.105:2000
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河南电信",西藏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.106:2000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河南电信",青海卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.107:2000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.1:2000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.36:2000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南电信",CCTV-2
+http://www.lwfz.fun:8800/rtp/239.16.10.127:2000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.10.2:2000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.20.253:12530
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="河南电信",CCTV-4
+http://www.lwfz.fun:8800/rtp/239.16.10.128:2000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5
+http://www.lwfz.fun:8800/rtp/239.16.10.132:2000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5+
+http://www.lwfz.fun:8800/rtp/239.16.10.3:2000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="河南电信",CCTV-6
+http://www.lwfz.fun:8800/rtp/239.16.10.101:2000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="河南电信",CCTV-7
+http://www.lwfz.fun:8800/rtp/239.16.10.130:2000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="河南电信",CCTV-8
+http://www.lwfz.fun:8800/rtp/239.16.10.102:2000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="河南电信",CCTV-9
+http://www.lwfz.fun:8800/rtp/239.16.10.103:2000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="河南电信",CCTV-10
+http://www.lwfz.fun:8800/rtp/239.16.10.108:2000
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="河南电信",CCTV-11
+http://www.lwfz.fun:8800/rtp/239.16.10.109:2000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="河南电信",CCTV-12
+http://www.lwfz.fun:8800/rtp/239.16.10.110:2000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="河南电信",CCTV-13
+http://www.lwfz.fun:8800/rtp/239.16.10.111:2000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="河南电信",CCTV-14
+http://www.lwfz.fun:8800/rtp/239.16.10.112:2000
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="河南电信",CCTV-15
+http://www.lwfz.fun:8800/rtp/239.16.10.113:2000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="河南电信",CCTV-17
+http://www.lwfz.fun:8800/rtp/239.16.10.129:2000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="河南电信",甘肃卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.114:2000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="河南电信",金鹰卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.115:2000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="河南电信",卡酷少儿
+http://www.lwfz.fun:8800/rtp/239.16.10.116:2000
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="河南电信",哈哈炫动
+http://www.lwfz.fun:8800/rtp/239.16.10.117:2000
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="河南电信",嘉佳卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.118:2000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南电信",河南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.119:2000
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png" group-title="河南电信",河南都市频道
+http://www.lwfz.fun:8800/rtp/239.16.10.120:2000
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生频道.png" group-title="河南电信",河南民生频道
+http://www.lwfz.fun:8800/rtp/239.16.10.121:2000
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治频道.png" group-title="河南电信",河南法治频道
+http://www.lwfz.fun:8800/rtp/239.16.10.122:2000
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧频道.png" group-title="河南电信",河南电视剧频道
+http://www.lwfz.fun:8800/rtp/239.16.10.123:2000
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻频道.png" group-title="河南电信",河南新闻频道
+http://www.lwfz.fun:8800/rtp/239.16.10.124:2000
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.10.125:2000
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共频道.png" group-title="河南电信",河南公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.126:2000
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.10.131:2000
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/河南戏曲.png" group-title="河南电信",河南戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.148:2000
+#EXTINF:-1 tvg-name="河南文博" tvg-logo="https://live.fanmingming.com/tv/河南文博.png" group-title="河南电信",河南文博
+http://www.lwfz.fun:8800/rtp/239.16.10.149:2000
+#EXTINF:-1 tvg-name="河南功夫" tvg-logo="https://live.fanmingming.com/tv/河南功夫.png" group-title="河南电信",河南功夫
+http://www.lwfz.fun:8800/rtp/239.16.10.150:2000
+#EXTINF:-1 tvg-name="商丘1新闻综合" tvg-logo="https://live.fanmingming.com/tv/商丘1新闻综合.png" group-title="河南电信",商丘1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.153:2000
+#EXTINF:-1 tvg-name="郑州1新闻综合" tvg-logo="https://live.fanmingming.com/tv/郑州1新闻综合.png" group-title="河南电信",郑州1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.154:2000
+#EXTINF:-1 tvg-name="郑州2商都频道" tvg-logo="https://live.fanmingming.com/tv/郑州2商都频道.png" group-title="河南电信",郑州2商都频道
+http://www.lwfz.fun:8800/rtp/239.16.10.155:2000
+#EXTINF:-1 tvg-name="郑州3文体频道" tvg-logo="https://live.fanmingming.com/tv/郑州3文体频道.png" group-title="河南电信",郑州3文体频道
+http://www.lwfz.fun:8800/rtp/239.16.10.156:2000
+#EXTINF:-1 tvg-name="郑州4影视戏曲" tvg-logo="https://live.fanmingming.com/tv/郑州4影视戏曲.png" group-title="河南电信",郑州4影视戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.157:2000
+#EXTINF:-1 tvg-name="郑州5妇女儿童" tvg-logo="https://live.fanmingming.com/tv/郑州5妇女儿童.png" group-title="河南电信",郑州5妇女儿童
+http://www.lwfz.fun:8800/rtp/239.16.10.158:2000
+#EXTINF:-1 tvg-name="郑州6都市生活" tvg-logo="https://live.fanmingming.com/tv/郑州6都市生活.png" group-title="河南电信",郑州6都市生活
+http://www.lwfz.fun:8800/rtp/239.16.10.159:2000
+#EXTINF:-1 tvg-name="南阳3科教" tvg-logo="https://live.fanmingming.com/tv/南阳3科教.png" group-title="河南电信",南阳3科教
+http://www.lwfz.fun:8800/rtp/239.16.10.164:2000
+#EXTINF:-1 tvg-name="南阳2公共" tvg-logo="https://live.fanmingming.com/tv/南阳2公共.png" group-title="河南电信",南阳2公共
+http://www.lwfz.fun:8800/rtp/239.16.10.165:2000
+#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://live.fanmingming.com/tv/新县综合.png" group-title="河南电信",新县综合
+http://www.lwfz.fun:8800/rtp/239.16.10.166:2000
+#EXTINF:-1 tvg-name="商丘2公共频道" tvg-logo="https://live.fanmingming.com/tv/商丘2公共频道.png" group-title="河南电信",商丘2公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.168:2000
+#EXTINF:-1 tvg-name="商丘3文体科教" tvg-logo="https://live.fanmingming.com/tv/商丘3文体科教.png" group-title="河南电信",商丘3文体科教
+http://www.lwfz.fun:8800/rtp/239.16.10.169:2000
+#EXTINF:-1 tvg-name="驻马店1新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/驻马店1新闻综合频道.png" group-title="河南电信",驻马店1新闻综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.170:2000
+#EXTINF:-1 tvg-name="驻马店3科教频道" tvg-logo="https://live.fanmingming.com/tv/驻马店3科教频道.png" group-title="河南电信",驻马店3科教频道
+http://www.lwfz.fun:8800/rtp/239.16.10.171:2000
+#EXTINF:-1 tvg-name="周口公共频道" tvg-logo="https://live.fanmingming.com/tv/周口公共频道.png" group-title="河南电信",周口公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.172:2000
+#EXTINF:-1 tvg-name="周口教育频道" tvg-logo="https://live.fanmingming.com/tv/周口教育频道.png" group-title="河南电信",周口教育频道
+http://www.lwfz.fun:8800/rtp/239.16.10.173:2000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="河南电信",CGTN
+http://www.lwfz.fun:8800/rtp/239.16.10.175:2000
+#EXTINF:-1 tvg-name="开封2文化旅游" tvg-logo="https://live.fanmingming.com/tv/开封2文化旅游.png" group-title="河南电信",开封2文化旅游
+http://www.lwfz.fun:8800/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-name="舞阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/舞阳新闻综合.png" group-title="河南电信",舞阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.179:2000
+#EXTINF:-1 tvg-name="临颍综合" tvg-logo="https://live.fanmingming.com/tv/临颍综合.png" group-title="河南电信",临颍综合
+http://www.lwfz.fun:8800/rtp/239.16.10.180:2000
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村频道.png" group-title="河南电信",河南乡村频道
+http://www.lwfz.fun:8800/rtp/239.16.10.181:2000
+#EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南电信",河南国际频道
+http://www.lwfz.fun:8800/rtp/239.16.10.182:2000
+#EXTINF:-1 tvg-name="百姓调解" tvg-logo="https://live.fanmingming.com/tv/百姓调解.png" group-title="河南电信",百姓调解
+http://www.lwfz.fun:8800/rtp/239.16.10.183:2000
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://live.fanmingming.com/tv/美食汇.png" group-title="河南电信",美食汇
+http://www.lwfz.fun:8800/rtp/239.16.10.185:2000
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://live.fanmingming.com/tv/棋牌汇.png" group-title="河南电信",棋牌汇
+http://www.lwfz.fun:8800/rtp/239.16.10.186:2000
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="河南电信",纪实人文
+http://www.lwfz.fun:8800/rtp/239.16.10.190:2000
+#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.com/tv/未知.png" group-title="河南电信",未知
+http://www.lwfz.fun:8800/rtp/239.16.10.191:2000
+#EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://live.fanmingming.com/tv/大象新闻.png" group-title="河南电信",大象新闻
+http://www.lwfz.fun:8800/rtp/239.16.10.192:2000
+#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.com/tv/未知.png" group-title="河南电信",未知
+http://www.lwfz.fun:8800/rtp/239.16.10.193:2000
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="河南电信",优购物
+http://www.lwfz.fun:8800/rtp/239.16.10.205:2000
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="河南电信",聚鲨环球精选
+http://www.lwfz.fun:8800/rtp/239.16.10.206:2000
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="河南电信",风尚购物
+http://www.lwfz.fun:8800/rtp/239.16.10.207:2000
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="河南电信",央广购物
+http://www.lwfz.fun:8800/rtp/239.16.10.208:2000
+#EXTINF:-1 tvg-name="河南4K实验 6M2160" tvg-logo="https://live.fanmingming.com/tv/河南4K实验 6M2160.png" group-title="河南电信",河南4K实验 6M2160
+http://www.lwfz.fun:8800/rtp/239.16.10.210:2000
+#EXTINF:-1 tvg-name="项城电视台" tvg-logo="https://live.fanmingming.com/tv/项城电视台.png" group-title="河南电信",项城电视台
+http://www.lwfz.fun:8800/rtp/239.16.10.214:2000
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.10.216:2000
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.10.217:2000
+#EXTINF:-1 tvg-name="河南IPTV导视" tvg-logo="https://live.fanmingming.com/tv/河南IPTV导视.png" group-title="河南电信",河南IPTV导视
+http://www.lwfz.fun:8800/rtp/239.16.10.218:2000
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="河南电信",SiTV都市剧场
+http://www.lwfz.fun:8800/rtp/239.16.10.232:2000
+#EXTINF:-1 tvg-name="SiTV欢笑剧场 720" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场 720.png" group-title="河南电信",SiTV欢笑剧场 720
+http://www.lwfz.fun:8800/rtp/239.16.10.233:2000
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="河南电信",SiTV动漫秀场
+http://www.lwfz.fun:8800/rtp/239.16.10.234:2000
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png" group-title="河南电信",SiTV东方财经
+http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南电信",河南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.21:10210
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png" group-title="河南电信",河南都市频道
+http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生频道.png" group-title="河南电信",河南民生频道
+http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治频道.png" group-title="河南电信",河南法治频道
+http://www.lwfz.fun:8800/rtp/239.16.20.166:11660
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧频道.png" group-title="河南电信",河南电视剧频道
+http://www.lwfz.fun:8800/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻频道.png" group-title="河南电信",河南新闻频道
+http://www.lwfz.fun:8800/rtp/239.16.20.168:11680
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南电信",大美河南
+http://www.lwfz.fun:8800/rtp/239.16.20.17:10170
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.1:10010
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南电信",CCTV-2
+http://www.lwfz.fun:8800/rtp/239.16.20.2:10020
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.20.3:10030
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="河南电信",CCTV-4
+http://www.lwfz.fun:8800/rtp/239.16.20.4:10040
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5
+http://www.lwfz.fun:8800/rtp/239.16.20.53:10530
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5+
+http://www.lwfz.fun:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="河南电信",CCTV-6
+http://www.lwfz.fun:8800/rtp/239.16.20.6:10060
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="河南电信",CCTV-7
+http://www.lwfz.fun:8800/rtp/239.16.20.51:10510
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="河南电信",CCTV-8
+http://www.lwfz.fun:8800/rtp/239.16.20.8:10080
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="河南电信",CCTV-9
+http://www.lwfz.fun:8800/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="河南电信",CCTV-10
+http://www.lwfz.fun:8800/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="河南电信",CCTV-11
+http://www.lwfz.fun:8800/rtp/239.16.20.11:10110
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="河南电信",CCTV-12
+http://www.lwfz.fun:8800/rtp/239.16.20.12:10120
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="河南电信",CCTV-13
+http://www.lwfz.fun:8800/rtp/239.16.20.13:10130
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="河南电信",CCTV-14 720
+http://www.lwfz.fun:8800/rtp/239.16.20.14:10140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="河南电信",CCTV-15
+http://www.lwfz.fun:8800/rtp/239.16.20.15:10150
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="河南电信",CCTV-16
+http://www.lwfz.fun:8800/rtp/239.16.20.34:10340
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="河南电信",CCTV-17
+http://www.lwfz.fun:8800/rtp/239.16.20.7:10070
+#EXTINF:-1 tvg-name="新乡县综合" tvg-logo="https://live.fanmingming.com/tv/新乡县综合.png" group-title="河南电信",新乡县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.18:10180
+#EXTINF:-1 tvg-name="封丘1新闻综合" tvg-logo="https://live.fanmingming.com/tv/封丘1新闻综合.png" group-title="河南电信",封丘1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.19:10190
+#EXTINF:-1 tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="河南电信",邓州综合
+http://www.lwfz.fun:8800/rtp/239.16.20.20:10200
+#EXTINF:-1 tvg-name="获嘉综合" tvg-logo="https://live.fanmingming.com/tv/获嘉综合.png" group-title="河南电信",获嘉综合
+http://www.lwfz.fun:8800/rtp/239.16.20.25:10250
+#EXTINF:-1 tvg-name="平顶山教育台" tvg-logo="https://live.fanmingming.com/tv/平顶山教育台.png" group-title="河南电信",平顶山教育台
+http://www.lwfz.fun:8800/rtp/239.16.20.27:10270
+#EXTINF:-1 tvg-name="大剧院" tvg-logo="https://live.fanmingming.com/tv/大剧院.png" group-title="河南电信",大剧院
+http://www.lwfz.fun:8800/rtp/239.16.20.29:10290
+#EXTINF:-1 tvg-name="平煤综合" tvg-logo="https://live.fanmingming.com/tv/平煤综合.png" group-title="河南电信",平煤综合
+http://www.lwfz.fun:8800/rtp/239.16.20.30:10300
+#EXTINF:-1 tvg-name="平煤安全环保" tvg-logo="https://live.fanmingming.com/tv/平煤安全环保.png" group-title="河南电信",平煤安全环保
+http://www.lwfz.fun:8800/rtp/239.16.20.31:10310
+#EXTINF:-1 tvg-name="叶县电视台-1" tvg-logo="https://live.fanmingming.com/tv/叶县电视台-1.png" group-title="河南电信",叶县电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.32:10320
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="河南电信",SiTV都市剧场
+http://www.lwfz.fun:8800/rtp/239.16.20.38:10380
+#EXTINF:-1 tvg-name="SiTV欢笑剧场 720" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场 720.png" group-title="河南电信",SiTV欢笑剧场 720
+http://www.lwfz.fun:8800/rtp/239.16.20.39:10390
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="河南电信",SiTV动漫秀场
+http://www.lwfz.fun:8800/rtp/239.16.20.40:10400
+#EXTINF:-1 tvg-name="新密综合频道" tvg-logo="https://live.fanmingming.com/tv/新密综合频道.png" group-title="河南电信",新密综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.41:10410
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://live.fanmingming.com/tv/登封综合.png" group-title="河南电信",登封综合
+http://www.lwfz.fun:8800/rtp/239.16.20.42:10420
+#EXTINF:-1 tvg-name="巩义综合" tvg-logo="https://live.fanmingming.com/tv/巩义综合.png" group-title="河南电信",巩义综合
+http://www.lwfz.fun:8800/rtp/239.16.20.43:10430
+#EXTINF:-1 tvg-name="荥阳综合频道" tvg-logo="https://live.fanmingming.com/tv/荥阳综合频道.png" group-title="河南电信",荥阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.44:10440
+#EXTINF:-1 tvg-name="新郑TV-1" tvg-logo="https://live.fanmingming.com/tv/新郑TV-1.png" group-title="河南电信",新郑TV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.45:10450
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://live.fanmingming.com/tv/渑池新闻综合.png" group-title="河南电信",渑池新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.47:10470
+#EXTINF:-1 tvg-name="淅川电视台-1" tvg-logo="https://live.fanmingming.com/tv/淅川电视台-1.png" group-title="河南电信",淅川电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.48:10480
+#EXTINF:-1 tvg-name="新蔡TV" tvg-logo="https://live.fanmingming.com/tv/新蔡TV.png" group-title="河南电信",新蔡TV
+http://www.lwfz.fun:8800/rtp/239.16.20.49:10490
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇平新闻综合.png" group-title="河南电信",镇平新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.50:10500
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.20.52:10520
+#EXTINF:-1 tvg-name="灵宝综合频道" tvg-logo="https://live.fanmingming.com/tv/灵宝综合频道.png" group-title="河南电信",灵宝综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.59:10590
+#EXTINF:-1 tvg-name="宝丰TV-1" tvg-logo="https://live.fanmingming.com/tv/宝丰TV-1.png" group-title="河南电信",宝丰TV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.63:10630
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png" group-title="河南电信",SiTV东方财经
+http://www.lwfz.fun:8800/rtp/239.16.20.64:10640
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="河南电信",湖南快乐垂钓
+http://www.lwfz.fun:8800/rtp/239.16.20.67:10670
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南茶频道.png" group-title="河南电信",湖南茶频道
+http://www.lwfz.fun:8800/rtp/239.16.20.68:10680
+#EXTINF:-1 tvg-name="湖南先锋乒羽 720" tvg-logo="https://live.fanmingming.com/tv/湖南先锋乒羽 720.png" group-title="河南电信",湖南先锋乒羽 720
+http://www.lwfz.fun:8800/rtp/239.16.20.69:10690
+#EXTINF:-1 tvg-name="NNM家庭理财" tvg-logo="https://live.fanmingming.com/tv/NNM家庭理财.png" group-title="河南电信",NNM家庭理财
+http://www.lwfz.fun:8800/rtp/239.16.20.70:10700
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="河南电信",浙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.71:10710
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="河南电信",湖南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.72:10720
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="河南电信",东方卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.73:10730
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="河南电信",江苏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.74:10740
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="河南电信",安徽卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.75:10750
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="河南电信",北京卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.76:10760
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="河南电信",深圳卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.77:10770
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河南电信",CETV-1
+http://www.lwfz.fun:8800/rtp/239.16.20.78:10780
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="河南电信",重庆卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="河南电信",山东卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.80:10800
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="河南电信",贵州卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.81:10810
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="河南电信",东南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.82:10820
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河南电信",陕西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.83:10830
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河南电信",广西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.84:10840
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河南电信",云南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.85:10850
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="河南电信",四川卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.86:10860
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="河南电信",湖北卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.87:10870
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河南电信",河北卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.88:10880
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="河南电信",江西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.89:10890
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="河南电信",山西卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.90:10900
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河南电信",内蒙古卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.91:10910
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河南电信",宁夏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.92:10920
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河南电信",新疆卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.93:10930
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="河南电信",吉林卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.94:10940
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="河南电信",辽宁卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.95:10950
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="河南电信",天津卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.96:10960
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河南电信",海南卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.97:10970
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="河南电信",广东卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.98:10980
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="河南电信",黑龙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河南电信",西藏卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.100:11000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河南电信",青海卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.101:11010
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="河南电信",甘肃卫视
+http://www.lwfz.fun:8800/rtp/239.16.20.102:11020
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="河南电信",江苏优漫卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.103:11030
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="河南电信",湖南金鹰卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.104:11040
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="河南电信",北京卡酷少儿
+http://www.lwfz.fun:8800/rtp/239.16.20.105:11050
+#EXTINF:-1 tvg-name="上海哈哈炫动 720" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动 720.png" group-title="河南电信",上海哈哈炫动 720
+http://www.lwfz.fun:8800/rtp/239.16.20.106:11060
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/广东嘉佳卡通.png" group-title="河南电信",广东嘉佳卡通
+http://www.lwfz.fun:8800/rtp/239.16.20.107:11070
+#EXTINF:-1 tvg-name="南乐综合" tvg-logo="https://live.fanmingming.com/tv/南乐综合.png" group-title="河南电信",南乐综合
+http://www.lwfz.fun:8800/rtp/239.16.20.108:11080
+#EXTINF:-1 tvg-name="义马电视台" tvg-logo="https://live.fanmingming.com/tv/义马电视台.png" group-title="河南电信",义马电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.109:11090
+#EXTINF:-1 tvg-name="SiTV乐游" tvg-logo="https://live.fanmingming.com/tv/SiTV乐游.png" group-title="河南电信",SiTV乐游
+http://www.lwfz.fun:8800/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="河南电信",SiTV游戏风云
+http://www.lwfz.fun:8800/rtp/239.16.20.112:11120
+#EXTINF:-1 tvg-name="SiTV极速汽车" tvg-logo="https://live.fanmingming.com/tv/SiTV极速汽车.png" group-title="河南电信",SiTV极速汽车
+http://www.lwfz.fun:8800/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-name="SiTV生活时尚" tvg-logo="https://live.fanmingming.com/tv/SiTV生活时尚.png" group-title="河南电信",SiTV生活时尚
+http://www.lwfz.fun:8800/rtp/239.16.20.114:11140
+#EXTINF:-1 tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="河南电信",SiTV金色学堂
+http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://live.fanmingming.com/tv/美食汇.png" group-title="河南电信",美食汇
+http://www.lwfz.fun:8800/rtp/239.16.20.117:11170
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://live.fanmingming.com/tv/棋牌汇.png" group-title="河南电信",棋牌汇
+http://www.lwfz.fun:8800/rtp/239.16.20.118:11180
+#EXTINF:-1 tvg-name="北京家有购物" tvg-logo="https://live.fanmingming.com/tv/北京家有购物.png" group-title="河南电信",北京家有购物
+http://www.lwfz.fun:8800/rtp/239.16.20.119:11190
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://live.fanmingming.com/tv/河南移动戏曲.png" group-title="河南电信",河南移动戏曲
+http://www.lwfz.fun:8800/rtp/239.16.20.120:11200
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.com/tv/河南睛彩中原.png" group-title="河南电信",河南睛彩中原
+http://www.lwfz.fun:8800/rtp/239.16.20.122:11220
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="河南电信",江西陶瓷
+http://www.lwfz.fun:8800/rtp/239.16.20.124:11240
+#EXTINF:-1 tvg-name="摄影频道" tvg-logo="https://live.fanmingming.com/tv/摄影频道.png" group-title="河南电信",摄影频道
+http://www.lwfz.fun:8800/rtp/239.16.20.125:11250
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="河南电信",天元围棋
+http://www.lwfz.fun:8800/rtp/239.16.20.126:11260
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="河南电信",体育赛事
+http://www.lwfz.fun:8800/rtp/239.16.20.128:11280
+#EXTINF:-1 tvg-name="江苏财富天下 720" tvg-logo="https://live.fanmingming.com/tv/江苏财富天下 720.png" group-title="河南电信",江苏财富天下 720
+http://www.lwfz.fun:8800/rtp/239.16.20.129:11290
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="河南电信",书画频道
+http://www.lwfz.fun:8800/rtp/239.16.20.130:11300
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="河南电信",环球旅游
+http://www.lwfz.fun:8800/rtp/239.16.20.131:11310
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="河南电信",中华特产
+http://www.lwfz.fun:8800/rtp/239.16.20.132:11320
+#EXTINF:-1 tvg-name="中央新影老故事" tvg-logo="https://live.fanmingming.com/tv/中央新影老故事.png" group-title="河南电信",中央新影老故事
+http://www.lwfz.fun:8800/rtp/239.16.20.133:11330
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.com/tv/车迷频道.png" group-title="河南电信",车迷频道
+http://www.lwfz.fun:8800/rtp/239.16.20.134:11340
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://live.fanmingming.com/tv/渑池新闻综合.png" group-title="河南电信",渑池新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.135:11350
+#EXTINF:-1 tvg-name="叶县电视台-1" tvg-logo="https://live.fanmingming.com/tv/叶县电视台-1.png" group-title="河南电信",叶县电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.136:11360
+#EXTINF:-1 tvg-name="平顶山新闻综合" tvg-logo="https://live.fanmingming.com/tv/平顶山新闻综合.png" group-title="河南电信",平顶山新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.137:11370
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://live.fanmingming.com/tv/新乡新闻综合.png" group-title="河南电信",新乡新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.139:11390
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://live.fanmingming.com/tv/焦作综合.png" group-title="河南电信",焦作综合
+http://www.lwfz.fun:8800/rtp/239.16.20.140:11400
+#EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://live.fanmingming.com/tv/鹤壁新闻综合.png" group-title="河南电信",鹤壁新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.142:11420
+#EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/安阳新闻综合.png" group-title="河南电信",安阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://live.fanmingming.com/tv/三门峡新闻综合.png" group-title="河南电信",三门峡新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.145:11450
+#EXTINF:-1 tvg-name="平顶山城市频道" tvg-logo="https://live.fanmingming.com/tv/平顶山城市频道.png" group-title="河南电信",平顶山城市频道
+http://www.lwfz.fun:8800/rtp/239.16.20.151:11510
+#EXTINF:-1 tvg-name="平顶山公共频道" tvg-logo="https://live.fanmingming.com/tv/平顶山公共频道.png" group-title="河南电信",平顶山公共频道
+http://www.lwfz.fun:8800/rtp/239.16.20.152:11520
+#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png" group-title="河南电信",湖南金鹰纪实
+http://www.lwfz.fun:8800/rtp/239.16.20.153:11530
+#EXTINF:-1 tvg-name="新乡公共" tvg-logo="https://live.fanmingming.com/tv/新乡公共.png" group-title="河南电信",新乡公共
+http://www.lwfz.fun:8800/rtp/239.16.20.154:11540
+#EXTINF:-1 tvg-name="焦作公共" tvg-logo="https://live.fanmingming.com/tv/焦作公共.png" group-title="河南电信",焦作公共
+http://www.lwfz.fun:8800/rtp/239.16.20.155:11550
+#EXTINF:-1 tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="河南电信",SiTV法治天地
+http://www.lwfz.fun:8800/rtp/239.16.20.156:11560
+#EXTINF:-1 tvg-name="焦作教育" tvg-logo="https://live.fanmingming.com/tv/焦作教育.png" group-title="河南电信",焦作教育
+http://www.lwfz.fun:8800/rtp/239.16.20.157:11570
+#EXTINF:-1 tvg-name="百视通4K" tvg-logo="https://live.fanmingming.com/tv/百视通4K.png" group-title="河南电信",百视通4K
+http://www.lwfz.fun:8800/rtp/239.16.20.158:11580
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.20.169:11690
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共频道.png" group-title="河南电信",河南公共频道
+http://www.lwfz.fun:8800/rtp/239.16.20.170:11700
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园频道.png" group-title="河南电信",河南梨园频道
+http://www.lwfz.fun:8800/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://live.fanmingming.com/tv/河南文物宝库.png" group-title="河南电信",河南文物宝库
+http://www.lwfz.fun:8800/rtp/239.16.20.172:11720
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://live.fanmingming.com/tv/河南武术世界.png" group-title="河南电信",河南武术世界
+http://www.lwfz.fun:8800/rtp/239.16.20.173:11730
+#EXTINF:-1 tvg-name="济源-1" tvg-logo="https://live.fanmingming.com/tv/济源-1.png" group-title="河南电信",济源-1
+http://www.lwfz.fun:8800/rtp/239.16.20.174:11740
+#EXTINF:-1 tvg-name="濮阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/濮阳新闻综合.png" group-title="河南电信",濮阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.175:11750
+#EXTINF:-1 tvg-name="洛阳-2 科教频道" tvg-logo="https://live.fanmingming.com/tv/洛阳-2 科教频道.png" group-title="河南电信",洛阳-2 科教频道
+http://www.lwfz.fun:8800/rtp/239.16.20.177:11770
+#EXTINF:-1 tvg-name="洛阳-3文旅频道" tvg-logo="https://live.fanmingming.com/tv/洛阳-3文旅频道.png" group-title="河南电信",洛阳-3文旅频道
+http://www.lwfz.fun:8800/rtp/239.16.20.178:11780
+#EXTINF:-1 tvg-name="洛阳-1新闻综合" tvg-logo="https://live.fanmingming.com/tv/洛阳-1新闻综合.png" group-title="河南电信",洛阳-1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.20.179:11790
+#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://live.fanmingming.com/tv/新县综合.png" group-title="河南电信",新县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.183:11830
+#EXTINF:-1 tvg-name="濮阳公共" tvg-logo="https://live.fanmingming.com/tv/濮阳公共.png" group-title="河南电信",濮阳公共
+http://www.lwfz.fun:8800/rtp/239.16.20.184:11840
+#EXTINF:-1 tvg-name="卫辉电视台" tvg-logo="https://live.fanmingming.com/tv/卫辉电视台.png" group-title="河南电信",卫辉电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.191:11910
+#EXTINF:-1 tvg-name="孟津综合" tvg-logo="https://live.fanmingming.com/tv/孟津综合.png" group-title="河南电信",孟津综合
+http://www.lwfz.fun:8800/rtp/239.16.20.192:11920
+#EXTINF:-1 tvg-name="安阳科教" tvg-logo="https://live.fanmingming.com/tv/安阳科教.png" group-title="河南电信",安阳科教
+http://www.lwfz.fun:8800/rtp/239.16.20.193:11930
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村频道.png" group-title="河南电信",河南乡村频道
+http://www.lwfz.fun:8800/rtp/239.16.20.195:11950
+#EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南电信",河南国际频道
+http://www.lwfz.fun:8800/rtp/239.16.20.196:11960
+#EXTINF:-1 tvg-name="河南调解剧场" tvg-logo="https://live.fanmingming.com/tv/河南调解剧场.png" group-title="河南电信",河南调解剧场
+http://www.lwfz.fun:8800/rtp/239.16.20.197:11970
+#EXTINF:-1 tvg-name="通许综合" tvg-logo="https://live.fanmingming.com/tv/通许综合.png" group-title="河南电信",通许综合
+http://www.lwfz.fun:8800/rtp/239.16.20.198:11980
+#EXTINF:-1 tvg-name="河南卫视4K测试 6M1080" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K测试 6M1080.png" group-title="河南电信",河南卫视4K测试 6M1080
+http://www.lwfz.fun:8800/rtp/239.16.20.199:11990
+#EXTINF:-1 tvg-name="山西优购物" tvg-logo="https://live.fanmingming.com/tv/山西优购物.png" group-title="河南电信",山西优购物
+http://www.lwfz.fun:8800/rtp/239.16.20.200:12000
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="河南电信",聚鲨环球精选
+http://www.lwfz.fun:8800/rtp/239.16.20.201:12010
+#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://live.fanmingming.com/tv/江西风尚购物.png" group-title="河南电信",江西风尚购物
+http://www.lwfz.fun:8800/rtp/239.16.20.202:12020
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="河南电信",央广购物
+http://www.lwfz.fun:8800/rtp/239.16.20.203:12030
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://live.fanmingming.com/tv/河南移动电视.png" group-title="河南电信",河南移动电视
+http://www.lwfz.fun:8800/rtp/239.16.20.204:12040
+#EXTINF:-1 tvg-name="淇县电视台" tvg-logo="https://live.fanmingming.com/tv/淇县电视台.png" group-title="河南电信",淇县电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.205:12050
+#EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://live.fanmingming.com/tv/宜阳综合.png" group-title="河南电信",宜阳综合
+http://www.lwfz.fun:8800/rtp/239.16.20.206:12060
+#EXTINF:-1 tvg-name="汝阳综合频道" tvg-logo="https://live.fanmingming.com/tv/汝阳综合频道.png" group-title="河南电信",汝阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.20.207:12070
+#EXTINF:-1 tvg-name="原阳电视台" tvg-logo="https://live.fanmingming.com/tv/原阳电视台.png" group-title="河南电信",原阳电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.208:12080
+#EXTINF:-1 tvg-name="宝丰-1" tvg-logo="https://live.fanmingming.com/tv/宝丰-1.png" group-title="河南电信",宝丰-1
+http://www.lwfz.fun:8800/rtp/239.16.20.209:12090
+#EXTINF:-1 tvg-name="延津电视台" tvg-logo="https://live.fanmingming.com/tv/延津电视台.png" group-title="河南电信",延津电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.210:12100
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷.png" group-title="河南电信",江西陶瓷
+http://www.lwfz.fun:8800/rtp/239.16.20.214:12140
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="河南电信",体育赛事
+http://www.lwfz.fun:8800/rtp/239.16.20.215:12150
+#EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://live.fanmingming.com/tv/大象新闻.png" group-title="河南电信",大象新闻
+http://www.lwfz.fun:8800/rtp/239.16.20.216:12160
+#EXTINF:-1 tvg-name="大剧院" tvg-logo="https://live.fanmingming.com/tv/大剧院.png" group-title="河南电信",大剧院
+http://www.lwfz.fun:8800/rtp/239.16.20.217:12170
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.223:12230
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.225:12250
+#EXTINF:-1 tvg-name="舞钢电视台-1" tvg-logo="https://live.fanmingming.com/tv/舞钢电视台-1.png" group-title="河南电信",舞钢电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.20.227:12270
+#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://live.fanmingming.com/tv/内黄综合.png" group-title="河南电信",内黄综合
+http://www.lwfz.fun:8800/rtp/239.16.20.228:12280
+#EXTINF:-1 tvg-name="河南欢腾购物 8M1440" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物 8M1440.png" group-title="河南电信",河南欢腾购物 8M1440
+http://www.lwfz.fun:8800/rtp/239.16.20.231:12310
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.20.232:12320
+#EXTINF:-1 tvg-name="河南欢腾购物 8M1440" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物 8M1440.png" group-title="河南电信",河南欢腾购物 8M1440
+http://www.lwfz.fun:8800/rtp/239.16.20.233:12330
+#EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://live.fanmingming.com/tv/嵩县综合新闻.png" group-title="河南电信",嵩县综合新闻
+http://www.lwfz.fun:8800/rtp/239.16.20.234:12340
+#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://live.fanmingming.com/tv/郏县综合.png" group-title="河南电信",郏县综合
+http://www.lwfz.fun:8800/rtp/239.16.20.235:12350
+#EXTINF:-1 tvg-name="义马电视台" tvg-logo="https://live.fanmingming.com/tv/义马电视台.png" group-title="河南电信",义马电视台
+http://www.lwfz.fun:8800/rtp/239.16.20.236:12360
+#EXTINF:-1 tvg-name="南乐综合" tvg-logo="https://live.fanmingming.com/tv/南乐综合.png" group-title="河南电信",南乐综合
+http://www.lwfz.fun:8800/rtp/239.16.20.237:12370
+#EXTINF:-1 tvg-name="4K测试" tvg-logo="https://live.fanmingming.com/tv/4K测试.png" group-title="河南电信",4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.238:12380
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.20.239:12390
+#EXTINF:-1 tvg-name="卢氏综合" tvg-logo="https://live.fanmingming.com/tv/卢氏综合.png" group-title="河南电信",卢氏综合
+http://www.lwfz.fun:8800/rtp/239.16.20.240:12400
+#EXTINF:-1 tvg-name="平煤综合" tvg-logo="https://live.fanmingming.com/tv/平煤综合.png" group-title="河南电信",平煤综合
+http://www.lwfz.fun:8800/rtp/239.16.20.241:12410
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.20.242:12420
+#EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南电信",大美河南
+http://www.lwfz.fun:8800/rtp/239.16.20.243:12430
+#EXTINF:-1 tvg-name="平煤安全环保" tvg-logo="https://live.fanmingming.com/tv/平煤安全环保.png" group-title="河南电信",平煤安全环保
+http://www.lwfz.fun:8800/rtp/239.16.20.244:12440
+#EXTINF:-1 tvg-name="百视通4K测试" tvg-logo="https://live.fanmingming.com/tv/百视通4K测试.png" group-title="河南电信",百视通4K测试
+http://www.lwfz.fun:8800/rtp/239.16.20.249:12490
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="河南电信",CGTN
+http://www.lwfz.fun:8800/rtp/239.16.20.252:12520
+#EXTINF:-1 tvg-name="百视通4K" tvg-logo="https://live.fanmingming.com/tv/百视通4K.png" group-title="河南电信",百视通4K
+http://www.lwfz.fun:8800/rtp/239.16.20.254:12540
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="河南电信",浙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.5:2000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="河南电信",湖南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.6:2000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="河南电信",东方卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.7:2000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="河南电信",江苏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.8:2000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="河南电信",安徽卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.9:2000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="河南电信",北京卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.10:2000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="河南电信",深圳卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.11:2000
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="河南电信",CETV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.12:2000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="河南电信",重庆卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="河南电信",山东卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.14:2000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="河南电信",贵州卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.15:2000
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="河南电信",东南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.16:2000
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="河南电信",陕西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.17:2000
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="河南电信",广西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.18:2000
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="河南电信",云南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.19:2000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="河南电信",四川卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.20:2000
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="河南电信",湖北卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.21:2000
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河南电信",河北卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.22:2000
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="河南电信",江西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.23:2000
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="河南电信",山西卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.24:2000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="河南电信",内蒙古卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.25:2000
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="河南电信",宁夏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.26:2000
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="河南电信",新疆卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.27:2000
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="河南电信",吉林卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.28:2000
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="河南电信",辽宁卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.29:2000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="河南电信",天津卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.30:2000
+#EXTINF:-1 tvg-name="新密综合频道" tvg-logo="https://live.fanmingming.com/tv/新密综合频道.png" group-title="河南电信",新密综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.31:2000
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://live.fanmingming.com/tv/登封综合.png" group-title="河南电信",登封综合
+http://www.lwfz.fun:8800/rtp/239.16.10.32:2000
+#EXTINF:-1 tvg-name="巩义综合" tvg-logo="https://live.fanmingming.com/tv/巩义综合.png" group-title="河南电信",巩义综合
+http://www.lwfz.fun:8800/rtp/239.16.10.33:2000
+#EXTINF:-1 tvg-name="荥阳综合频道" tvg-logo="https://live.fanmingming.com/tv/荥阳综合频道.png" group-title="河南电信",荥阳综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.34:2000
+#EXTINF:-1 tvg-name="新郑TV-1" tvg-logo="https://live.fanmingming.com/tv/新郑TV-1.png" group-title="河南电信",新郑TV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.35:2000
+#EXTINF:-1 tvg-name="淅川电视台-1" tvg-logo="https://live.fanmingming.com/tv/淅川电视台-1.png" group-title="河南电信",淅川电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.10.38:2000
+#EXTINF:-1 tvg-name="禹州电视台" tvg-logo="https://live.fanmingming.com/tv/禹州电视台.png" group-title="河南电信",禹州电视台
+http://www.lwfz.fun:8800/rtp/239.16.10.39:2000
+#EXTINF:-1 tvg-name="西平电视台-1" tvg-logo="https://live.fanmingming.com/tv/西平电视台-1.png" group-title="河南电信",西平电视台-1
+http://www.lwfz.fun:8800/rtp/239.16.10.41:2000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="河南电信",海南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.43:2000
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="河南电信",优漫卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.44:2000
+#EXTINF:-1 tvg-name="新蔡TV" tvg-logo="https://live.fanmingming.com/tv/新蔡TV.png" group-title="河南电信",新蔡TV
+http://www.lwfz.fun:8800/rtp/239.16.10.45:2000
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇平新闻综合.png" group-title="河南电信",镇平新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.46:2000
+#EXTINF:-1 tvg-name="许昌综合" tvg-logo="https://live.fanmingming.com/tv/许昌综合.png" group-title="河南电信",许昌综合
+http://www.lwfz.fun:8800/rtp/239.16.10.47:2000
+#EXTINF:-1 tvg-name="漯河新闻综合" tvg-logo="https://live.fanmingming.com/tv/漯河新闻综合.png" group-title="河南电信",漯河新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.49:2000
+#EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/信阳新闻综合.png" group-title="河南电信",信阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-name="驻马店2公共频道" tvg-logo="https://live.fanmingming.com/tv/驻马店2公共频道.png" group-title="河南电信",驻马店2公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.54:2000
+#EXTINF:-1 tvg-name="开封1新闻综合" tvg-logo="https://live.fanmingming.com/tv/开封1新闻综合.png" group-title="河南电信",开封1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-name="南阳1新闻综合" tvg-logo="https://live.fanmingming.com/tv/南阳1新闻综合.png" group-title="河南电信",南阳1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.58:2000
+#EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://live.fanmingming.com/tv/周口新闻综合.png" group-title="河南电信",周口新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-name="许昌农业科教" tvg-logo="https://live.fanmingming.com/tv/许昌农业科教.png" group-title="河南电信",许昌农业科教
+http://www.lwfz.fun:8800/rtp/239.16.10.60:2000
+#EXTINF:-1 tvg-name="许昌公共" tvg-logo="https://live.fanmingming.com/tv/许昌公共.png" group-title="河南电信",许昌公共
+http://www.lwfz.fun:8800/rtp/239.16.10.61:2000
+#EXTINF:-1 tvg-name="信阳文旅频道" tvg-logo="https://live.fanmingming.com/tv/信阳文旅频道.png" group-title="河南电信",信阳文旅频道
+http://www.lwfz.fun:8800/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-name="浉河广电中心" tvg-logo="https://live.fanmingming.com/tv/浉河广电中心.png" group-title="河南电信",浉河广电中心
+http://www.lwfz.fun:8800/rtp/239.16.10.72:2000
+#EXTINF:-1 tvg-name="平桥广电中心" tvg-logo="https://live.fanmingming.com/tv/平桥广电中心.png" group-title="河南电信",平桥广电中心
+http://www.lwfz.fun:8800/rtp/239.16.10.73:2000
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="河南电信",家有购物
+http://www.lwfz.fun:8800/rtp/239.16.10.75:2000
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://live.fanmingming.com/tv/河南移动戏曲.png" group-title="河南电信",河南移动戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.76:2000
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.com/tv/河南睛彩中原.png" group-title="河南电信",河南睛彩中原
+http://www.lwfz.fun:8800/rtp/239.16.10.78:2000
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://live.fanmingming.com/tv/河南移动电视.png" group-title="河南电信",河南移动电视
+http://www.lwfz.fun:8800/rtp/239.16.10.79:2000
+#EXTINF:-1 tvg-name="杞县新闻综合" tvg-logo="https://live.fanmingming.com/tv/杞县新闻综合.png" group-title="河南电信",杞县新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.80:2000
+#EXTINF:-1 tvg-name="郸城" tvg-logo="https://live.fanmingming.com/tv/郸城.png" group-title="河南电信",郸城
+http://www.lwfz.fun:8800/rtp/239.16.10.84:2000
+#EXTINF:-1 tvg-name="永城新闻联播" tvg-logo="https://live.fanmingming.com/tv/永城新闻联播.png" group-title="河南电信",永城新闻联播
+http://www.lwfz.fun:8800/rtp/239.16.10.93:2000
+#EXTINF:-1 tvg-name="光山综合" tvg-logo="https://live.fanmingming.com/tv/光山综合.png" group-title="河南电信",光山综合
+http://www.lwfz.fun:8800/rtp/239.16.10.94:2000
+#EXTINF:-1 tvg-name="唐河TV-1" tvg-logo="https://live.fanmingming.com/tv/唐河TV-1.png" group-title="河南电信",唐河TV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.95:2000
+#EXTINF:-1 tvg-name="上蔡-1" tvg-logo="https://live.fanmingming.com/tv/上蔡-1.png" group-title="河南电信",上蔡-1
+http://www.lwfz.fun:8800/rtp/239.16.10.97:2000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="河南电信",广东卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.104:2000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="河南电信",黑龙江卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.105:2000
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="河南电信",西藏卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.106:2000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="河南电信",青海卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.107:2000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.1:2000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南电信",CCTV-1
+http://www.lwfz.fun:8800/rtp/239.16.10.36:2000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南电信",CCTV-2
+http://www.lwfz.fun:8800/rtp/239.16.10.127:2000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.10.2:2000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="河南电信",CCTV-3
+http://www.lwfz.fun:8800/rtp/239.16.20.253:12530
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="河南电信",CCTV-4
+http://www.lwfz.fun:8800/rtp/239.16.10.128:2000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5
+http://www.lwfz.fun:8800/rtp/239.16.10.132:2000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="河南电信",CCTV-5+
+http://www.lwfz.fun:8800/rtp/239.16.10.3:2000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="河南电信",CCTV-6
+http://www.lwfz.fun:8800/rtp/239.16.10.101:2000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="河南电信",CCTV-7
+http://www.lwfz.fun:8800/rtp/239.16.10.130:2000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="河南电信",CCTV-8
+http://www.lwfz.fun:8800/rtp/239.16.10.102:2000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="河南电信",CCTV-9
+http://www.lwfz.fun:8800/rtp/239.16.10.103:2000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="河南电信",CCTV-10
+http://www.lwfz.fun:8800/rtp/239.16.10.108:2000
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="河南电信",CCTV-11
+http://www.lwfz.fun:8800/rtp/239.16.10.109:2000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="河南电信",CCTV-12
+http://www.lwfz.fun:8800/rtp/239.16.10.110:2000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="河南电信",CCTV-13
+http://www.lwfz.fun:8800/rtp/239.16.10.111:2000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="河南电信",CCTV-14
+http://www.lwfz.fun:8800/rtp/239.16.10.112:2000
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="河南电信",CCTV-15
+http://www.lwfz.fun:8800/rtp/239.16.10.113:2000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="河南电信",CCTV-17
+http://www.lwfz.fun:8800/rtp/239.16.10.129:2000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="河南电信",甘肃卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.114:2000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="河南电信",金鹰卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.115:2000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="河南电信",卡酷少儿
+http://www.lwfz.fun:8800/rtp/239.16.10.116:2000
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="河南电信",哈哈炫动
+http://www.lwfz.fun:8800/rtp/239.16.10.117:2000
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="河南电信",嘉佳卡通
+http://www.lwfz.fun:8800/rtp/239.16.10.118:2000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南电信",河南卫视
+http://www.lwfz.fun:8800/rtp/239.16.10.119:2000
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市频道.png" group-title="河南电信",河南都市频道
+http://www.lwfz.fun:8800/rtp/239.16.10.120:2000
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生频道.png" group-title="河南电信",河南民生频道
+http://www.lwfz.fun:8800/rtp/239.16.10.121:2000
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治频道.png" group-title="河南电信",河南法治频道
+http://www.lwfz.fun:8800/rtp/239.16.10.122:2000
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧频道.png" group-title="河南电信",河南电视剧频道
+http://www.lwfz.fun:8800/rtp/239.16.10.123:2000
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻频道.png" group-title="河南电信",河南新闻频道
+http://www.lwfz.fun:8800/rtp/239.16.10.124:2000
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.10.125:2000
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共频道.png" group-title="河南电信",河南公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.126:2000
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://live.fanmingming.com/tv/健康中原.png" group-title="河南电信",健康中原
+http://www.lwfz.fun:8800/rtp/239.16.10.131:2000
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/河南戏曲.png" group-title="河南电信",河南戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.148:2000
+#EXTINF:-1 tvg-name="河南文博" tvg-logo="https://live.fanmingming.com/tv/河南文博.png" group-title="河南电信",河南文博
+http://www.lwfz.fun:8800/rtp/239.16.10.149:2000
+#EXTINF:-1 tvg-name="河南功夫" tvg-logo="https://live.fanmingming.com/tv/河南功夫.png" group-title="河南电信",河南功夫
+http://www.lwfz.fun:8800/rtp/239.16.10.150:2000
+#EXTINF:-1 tvg-name="商丘1新闻综合" tvg-logo="https://live.fanmingming.com/tv/商丘1新闻综合.png" group-title="河南电信",商丘1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.153:2000
+#EXTINF:-1 tvg-name="郑州1新闻综合" tvg-logo="https://live.fanmingming.com/tv/郑州1新闻综合.png" group-title="河南电信",郑州1新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.154:2000
+#EXTINF:-1 tvg-name="郑州2商都频道" tvg-logo="https://live.fanmingming.com/tv/郑州2商都频道.png" group-title="河南电信",郑州2商都频道
+http://www.lwfz.fun:8800/rtp/239.16.10.155:2000
+#EXTINF:-1 tvg-name="郑州3文体频道" tvg-logo="https://live.fanmingming.com/tv/郑州3文体频道.png" group-title="河南电信",郑州3文体频道
+http://www.lwfz.fun:8800/rtp/239.16.10.156:2000
+#EXTINF:-1 tvg-name="郑州4影视戏曲" tvg-logo="https://live.fanmingming.com/tv/郑州4影视戏曲.png" group-title="河南电信",郑州4影视戏曲
+http://www.lwfz.fun:8800/rtp/239.16.10.157:2000
+#EXTINF:-1 tvg-name="郑州5妇女儿童" tvg-logo="https://live.fanmingming.com/tv/郑州5妇女儿童.png" group-title="河南电信",郑州5妇女儿童
+http://www.lwfz.fun:8800/rtp/239.16.10.158:2000
+#EXTINF:-1 tvg-name="郑州6都市生活" tvg-logo="https://live.fanmingming.com/tv/郑州6都市生活.png" group-title="河南电信",郑州6都市生活
+http://www.lwfz.fun:8800/rtp/239.16.10.159:2000
+#EXTINF:-1 tvg-name="南阳3科教" tvg-logo="https://live.fanmingming.com/tv/南阳3科教.png" group-title="河南电信",南阳3科教
+http://www.lwfz.fun:8800/rtp/239.16.10.164:2000
+#EXTINF:-1 tvg-name="南阳2公共" tvg-logo="https://live.fanmingming.com/tv/南阳2公共.png" group-title="河南电信",南阳2公共
+http://www.lwfz.fun:8800/rtp/239.16.10.165:2000
+#EXTINF:-1 tvg-name="新县综合" tvg-logo="https://live.fanmingming.com/tv/新县综合.png" group-title="河南电信",新县综合
+http://www.lwfz.fun:8800/rtp/239.16.10.166:2000
+#EXTINF:-1 tvg-name="商丘2公共频道" tvg-logo="https://live.fanmingming.com/tv/商丘2公共频道.png" group-title="河南电信",商丘2公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.168:2000
+#EXTINF:-1 tvg-name="商丘3文体科教" tvg-logo="https://live.fanmingming.com/tv/商丘3文体科教.png" group-title="河南电信",商丘3文体科教
+http://www.lwfz.fun:8800/rtp/239.16.10.169:2000
+#EXTINF:-1 tvg-name="驻马店1新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/驻马店1新闻综合频道.png" group-title="河南电信",驻马店1新闻综合频道
+http://www.lwfz.fun:8800/rtp/239.16.10.170:2000
+#EXTINF:-1 tvg-name="驻马店3科教频道" tvg-logo="https://live.fanmingming.com/tv/驻马店3科教频道.png" group-title="河南电信",驻马店3科教频道
+http://www.lwfz.fun:8800/rtp/239.16.10.171:2000
+#EXTINF:-1 tvg-name="周口公共频道" tvg-logo="https://live.fanmingming.com/tv/周口公共频道.png" group-title="河南电信",周口公共频道
+http://www.lwfz.fun:8800/rtp/239.16.10.172:2000
+#EXTINF:-1 tvg-name="周口教育频道" tvg-logo="https://live.fanmingming.com/tv/周口教育频道.png" group-title="河南电信",周口教育频道
+http://www.lwfz.fun:8800/rtp/239.16.10.173:2000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="河南电信",CGTN
+http://www.lwfz.fun:8800/rtp/239.16.10.175:2000
+#EXTINF:-1 tvg-name="开封2文化旅游" tvg-logo="https://live.fanmingming.com/tv/开封2文化旅游.png" group-title="河南电信",开封2文化旅游
+http://www.lwfz.fun:8800/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-name="舞阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/舞阳新闻综合.png" group-title="河南电信",舞阳新闻综合
+http://www.lwfz.fun:8800/rtp/239.16.10.179:2000
+#EXTINF:-1 tvg-name="临颍综合" tvg-logo="https://live.fanmingming.com/tv/临颍综合.png" group-title="河南电信",临颍综合
+http://www.lwfz.fun:8800/rtp/239.16.10.180:2000
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村频道.png" group-title="河南电信",河南乡村频道
+http://www.lwfz.fun:8800/rtp/239.16.10.181:2000
+#EXTINF:-1 tvg-name="河南国际频道" tvg-logo="https://live.fanmingming.com/tv/河南国际频道.png" group-title="河南电信",河南国际频道
+http://www.lwfz.fun:8800/rtp/239.16.10.182:2000
+#EXTINF:-1 tvg-name="百姓调解" tvg-logo="https://live.fanmingming.com/tv/百姓调解.png" group-title="河南电信",百姓调解
+http://www.lwfz.fun:8800/rtp/239.16.10.183:2000
+#EXTINF:-1 tvg-name="美食汇" tvg-logo="https://live.fanmingming.com/tv/美食汇.png" group-title="河南电信",美食汇
+http://www.lwfz.fun:8800/rtp/239.16.10.185:2000
+#EXTINF:-1 tvg-name="棋牌汇" tvg-logo="https://live.fanmingming.com/tv/棋牌汇.png" group-title="河南电信",棋牌汇
+http://www.lwfz.fun:8800/rtp/239.16.10.186:2000
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="河南电信",纪实人文
+http://www.lwfz.fun:8800/rtp/239.16.10.190:2000
+#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.com/tv/未知.png" group-title="河南电信",未知
+http://www.lwfz.fun:8800/rtp/239.16.10.191:2000
+#EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://live.fanmingming.com/tv/大象新闻.png" group-title="河南电信",大象新闻
+http://www.lwfz.fun:8800/rtp/239.16.10.192:2000
+#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.com/tv/未知.png" group-title="河南电信",未知
+http://www.lwfz.fun:8800/rtp/239.16.10.193:2000
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="河南电信",优购物
+http://www.lwfz.fun:8800/rtp/239.16.10.205:2000
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="河南电信",聚鲨环球精选
+http://www.lwfz.fun:8800/rtp/239.16.10.206:2000
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="河南电信",风尚购物
+http://www.lwfz.fun:8800/rtp/239.16.10.207:2000
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="河南电信",央广购物
+http://www.lwfz.fun:8800/rtp/239.16.10.208:2000
+#EXTINF:-1 tvg-name="河南4K实验 6M2160" tvg-logo="https://live.fanmingming.com/tv/河南4K实验 6M2160.png" group-title="河南电信",河南4K实验 6M2160
+http://www.lwfz.fun:8800/rtp/239.16.10.210:2000
+#EXTINF:-1 tvg-name="项城电视台" tvg-logo="https://live.fanmingming.com/tv/项城电视台.png" group-title="河南电信",项城电视台
+http://www.lwfz.fun:8800/rtp/239.16.10.214:2000
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/河南欢腾购物.png" group-title="河南电信",河南欢腾购物
+http://www.lwfz.fun:8800/rtp/239.16.10.216:2000
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="河南电信",国学频道
+http://www.lwfz.fun:8800/rtp/239.16.10.217:2000
+#EXTINF:-1 tvg-name="河南IPTV导视" tvg-logo="https://live.fanmingming.com/tv/河南IPTV导视.png" group-title="河南电信",河南IPTV导视
+http://www.lwfz.fun:8800/rtp/239.16.10.218:2000
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="河南电信",SiTV都市剧场
+http://www.lwfz.fun:8800/rtp/239.16.10.232:2000
+#EXTINF:-1 tvg-name="SiTV欢笑剧场 720" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场 720.png" group-title="河南电信",SiTV欢笑剧场 720
+http://www.lwfz.fun:8800/rtp/239.16.10.233:2000
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="河南电信",SiTV动漫秀场
+http://www.lwfz.fun:8800/rtp/239.16.10.234:2000
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png" group-title="河南电信",SiTV东方财经
+http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="上海-组播",新闻综合
+http://116.226.74.224:18888/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海-组播",东方卫视
+http://116.226.74.224:18888/udp/239.45.3.146:5140
+#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png" group-title="上海-组播",都市频道
+http://116.226.74.224:18888/udp/239.45.3.236:5140
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海-组播",纪实人文
+http://116.226.74.224:18888/udp/239.45.3.212:5140
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海-组播",东方影视
+http://116.226.74.224:18888/udp/239.45.3.237:5140
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海-组播",第一财经
+http://116.226.74.224:18888/udp/239.45.3.211:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海-组播",五星体育
+http://116.226.74.224:18888/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海-组播",哈哈炫动
+http://116.226.74.224:18888/udp/239.45.1.55:5140
+#EXTINF:-1 tvg-name="上视外语" tvg-logo="https://live.fanmingming.com/tv/上视外语.png" group-title="上海-组播",上视外语
+http://116.226.74.224:18888/udp/239.45.1.127:5140
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海-组播",都市剧场
+http://116.226.74.224:18888/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海-组播",欢笑剧场
+http://116.226.74.224:18888/udp/239.45.3.196:5140
+#EXTINF:-1 tvg-name="欢笑剧场（备）" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场（备）.png" group-title="上海-组播",欢笑剧场（备）
+http://116.226.74.224:18888/udp/239.45.1.4:5140
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="上海-组播",全纪实
+http://116.226.74.224:18888/udp/239.45.3.135:5140
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="上海-组播",CCTV1综合
+http://116.226.74.224:18888/udp/239.45.3.145:5140
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经.png" group-title="上海-组播",CCTV2财经
+http://116.226.74.224:18888/udp/239.45.1.109:5140
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png" group-title="上海-组播",CCTV3综艺
+http://116.226.74.224:18888/udp/239.45.1.68:5140
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际.png" group-title="上海-组播",CCTV4中文国际
+http://116.226.74.224:18888/udp/239.45.0.2:5140
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育.png" group-title="上海-组播",CCTV5体育
+http://116.226.74.224:18888/udp/239.45.1.69:5140
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="上海-组播",CCTV6电影
+http://116.226.74.224:18888/udp/239.45.1.70:5140
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事.png" group-title="上海-组播",CCTV7国防军事
+http://116.226.74.224:18888/udp/239.45.3.56:5140
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧.png" group-title="上海-组播",CCTV8电视剧
+http://116.226.74.224:18888/udp/239.45.1.71:5140
+#EXTINF:-1 tvg-name="CCTV9记录" tvg-logo="https://live.fanmingming.com/tv/CCTV9记录.png" group-title="上海-组播",CCTV9记录
+http://116.226.74.224:18888/udp/239.45.3.4:5140
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教.png" group-title="上海-组播",CCTV10科教
+http://116.226.74.224:18888/udp/239.45.3.8:5140
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲.png" group-title="上海-组播",CCTV11戏曲
+http://116.226.74.224:18888/udp/239.45.1.196:5140
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法.png" group-title="上海-组播",CCTV12社会与法
+http://116.226.74.224:18888/udp/239.45.3.10:5140
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻.png" group-title="上海-组播",CCTV13新闻
+http://116.226.74.224:18888/udp/239.45.1.198:5140
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿.png" group-title="上海-组播",CCTV14少儿
+http://116.226.74.224:18888/udp/239.45.3.23:5140
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐.png" group-title="上海-组播",CCTV15音乐
+http://116.226.74.224:18888/udp/239.45.1.200:5140
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="上海-组播",CCTV-17农村农业
+http://116.226.74.224:18888/udp/239.45.3.52:5140
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="上海-组播",CGTN
+http://116.226.74.224:18888/udp/239.45.1.194:5140
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海-组播",动漫秀场
+http://116.226.74.224:18888/udp/239.45.3.134:5140
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海-组播",生活时尚
+http://116.226.74.224:18888/udp/239.45.3.132:5140
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海-组播",游戏风云
+http://116.226.74.224:18888/udp/239.45.3.131:5140
+#EXTINF:-1 tvg-name="MAX极速汽车" tvg-logo="https://live.fanmingming.com/tv/MAX极速汽车.png" group-title="上海-组播",MAX极速汽车
+http://116.226.74.224:18888/udp/239.45.3.49:5140
+#EXTINF:-1 tvg-name="教育台" tvg-logo="https://live.fanmingming.com/tv/教育台.png" group-title="上海-组播",教育台
+http://116.226.74.224:18888/udp/239.45.3.122:5140
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海-组播",东方财经
+http://116.226.74.224:18888/udp/239.45.1.119:5140
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海-组播",七彩戏剧
+http://116.226.74.224:18888/udp/239.45.3.61:5140
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海-组播",法治天地
+http://116.226.74.224:18888/udp/239.45.1.46:5140
+#EXTINF:-1 tvg-name="浦东频道" tvg-logo="https://live.fanmingming.com/tv/浦东频道.png" group-title="上海-组播",浦东频道
+http://116.226.74.224:18888/udp/239.45.3.248:5140
+#EXTINF:-1 tvg-name="崇明电视" tvg-logo="https://live.fanmingming.com/tv/崇明电视.png" group-title="上海-组播",崇明电视
+http://116.226.74.224:18888/udp/239.45.1.54:5140
+#EXTINF:-1 tvg-name="嘉定频道" tvg-logo="https://live.fanmingming.com/tv/嘉定频道.png" group-title="上海-组播",嘉定频道
+http://116.226.74.224:18888/udp/239.45.3.185:5140
+#EXTINF:-1 tvg-name="金色频道" tvg-logo="https://live.fanmingming.com/tv/金色频道.png" group-title="上海-组播",金色频道
+http://116.226.74.224:18888/udp/239.45.1.118:5140
+#EXTINF:-1 tvg-name="健康人生" tvg-logo="https://live.fanmingming.com/tv/健康人生.png" group-title="上海-组播",健康人生
+http://116.226.74.224:18888/udp/239.45.3.214:5140
+#EXTINF:-1 tvg-name="百事通超级体育" tvg-logo="https://live.fanmingming.com/tv/百事通超级体育.png" group-title="上海-组播",百事通超级体育
+http://116.226.74.224:18888/udp/239.45.3.139:5140
+#EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://live.fanmingming.com/tv/百事通4K.png" group-title="上海-组播",百事通4K
+http://116.226.74.224:18888/udp/239.45.1.42:5140
+#EXTINF:-1 tvg-name="百事通4K（备）" tvg-logo="https://live.fanmingming.com/tv/百事通4K（备）.png" group-title="上海-组播",百事通4K（备）
+http://116.226.74.224:18888/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://live.fanmingming.com/tv/中国教育-1.png" group-title="上海-组播",中国教育-1
+http://116.226.74.224:18888/udp/239.45.1.125:5140
+#EXTINF:-1 tvg-name="中国教育-2" tvg-logo="https://live.fanmingming.com/tv/中国教育-2.png" group-title="上海-组播",中国教育-2
+http://116.226.74.224:18888/udp/239.45.1.52:5140
+#EXTINF:-1 tvg-name="中国教育-4" tvg-logo="https://live.fanmingming.com/tv/中国教育-4.png" group-title="上海-组播",中国教育-4
+http://116.226.74.224:18888/udp/239.45.1.50:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="上海-组播",浙江卫视
+http://116.226.74.224:18888/udp/239.45.3.178:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="上海-组播",江苏卫视
+http://116.226.74.224:18888/udp/239.45.3.177:5140
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="上海-组播",湖南卫视
+http://116.226.74.224:18888/udp/239.45.3.228:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="上海-组播",北京卫视
+http://116.226.74.224:18888/udp/239.45.3.229:5140
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="上海-组播",广东卫视
+http://116.226.74.224:18888/udp/239.45.3.230:5140
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="上海-组播",深圳卫视
+http://116.226.74.224:18888/udp/239.45.3.231:5140
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="上海-组播",黑龙江卫视
+http://116.226.74.224:18888/udp/239.45.3.232:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="上海-组播",山东卫视
+http://116.226.74.224:18888/udp/239.45.3.238:5140
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="上海-组播",湖北卫视
+http://116.226.74.224:18888/udp/239.45.3.239:5140
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="上海-组播",安徽卫视
+http://116.226.74.224:18888/udp/239.45.1.120:5140
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="上海-组播",东南卫视
+http://116.226.74.224:18888/udp/239.45.1.121:5140
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="上海-组播",江西卫视
+http://116.226.74.224:18888/udp/239.45.1.122:5140
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="上海-组播",辽宁卫视
+http://116.226.74.224:18888/udp/239.45.1.123:5140
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="上海-组播",天津卫视
+http://116.226.74.224:18888/udp/239.45.1.124:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="上海-组播",四川卫视
+http://116.226.74.224:18888/udp/239.45.1.83:5140
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="上海-组播",重庆卫视
+http://116.226.74.224:18888/udp/239.45.1.84:5140
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="上海-组播",贵州卫视
+http://116.226.74.224:18888/udp/239.45.1.80:5140
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="上海-组播",海南卫视
+http://116.226.74.224:18888/udp/239.45.1.81:5140
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="上海-组播",河北卫视
+http://116.226.74.224:18888/udp/239.45.1.44:5140
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="上海-组播",金鹰纪实
+http://116.226.74.224:18888/udp/239.45.1.45:5140
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="上海-组播",宁夏卫视
+http://116.226.74.224:18888/udp/239.45.1.213:5140
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="上海-组播",广西卫视
+http://116.226.74.224:18888/udp/239.45.0.5:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="上海-组播",吉林卫视
+http://116.226.74.224:18888/udp/239.45.0.6:5140
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="上海-组播",山西卫视
+http://116.226.74.224:18888/udp/239.45.1.229:5140
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="上海-组播",青海卫视
+http://116.226.74.224:18888/udp/239.45.1.230:5140
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="上海-组播",西藏卫视
+http://116.226.74.224:18888/udp/239.45.1.231:5140
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="上海-组播",陕西卫视
+http://116.226.74.224:18888/udp/239.45.1.232:5140
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="上海-组播",云南卫视
+http://116.226.74.224:18888/udp/239.45.0.4:5140
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="上海-组播",甘肃卫视
+http://116.226.74.224:18888/udp/239.45.1.234:5140
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="上海-组播",内蒙古卫视
+http://116.226.74.224:18888/udp/239.45.1.238:5140
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="上海-组播",河南卫视
+http://116.226.74.224:18888/udp/239.45.0.3:5140
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="上海-组播",新疆卫视
+http://116.226.74.224:18888/udp/239.45.1.116:5140
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="上海-组播",兵团卫视
+http://116.226.74.224:18888/udp/239.45.1.117:5140
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="上海-组播",三沙卫视
+http://116.226.74.224:18888/udp/239.45.1.82:5140
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="上海-组播",康巴卫视
+http://116.226.74.224:18888/udp/239.45.1.251:5140
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="上海-组播",金鹰卡通
+http://116.226.74.224:18888/udp/239.45.3.118:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="上海-组播",嘉佳卡通
+http://116.226.74.224:18888/udp/239.45.1.48:5140
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="上海-组播",卡酷少儿
+http://116.226.74.224:18888/udp/239.45.0.8:5140
+#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/北京冬奥纪实.png" group-title="上海-组播",北京冬奥纪实
+http://116.226.74.224:18888/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-name="福建体育" tvg-logo="https://live.fanmingming.com/tv/福建体育.png" group-title="福建-组播",福建体育
 http://xwh.8211321.com:5550/rtp/239.61.2.160:8948$福建cmc1+
 #EXTINF:-1 tvg-name="福建公共频道" tvg-logo="https://live.fanmingming.com/tv/福建公共频道.png" group-title="福建-组播",福建公共频道
