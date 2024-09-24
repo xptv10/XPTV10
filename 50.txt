@@ -818,7 +818,13 @@ CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 
 广东卫视,http://117.72.68.25:9930/migu.php?id=gdws
 大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws
-广东影视,http://120.77.28.4:8648/mgu.php?id=gdys
+
+
+广东体育,http://59.32.97.166:9901/tsfile/live/1081_1.m3u8
+广东少儿,http://59.32.97.166:9901/tsfile/live/1101_1.m3u8
+广东影视,http://59.32.97.166:9901/tsfile/live/1023_1.m3u8
+广东新闻,http://59.32.97.166:9901/tsfile/live/1003_1.m3u8
+
 
 
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
