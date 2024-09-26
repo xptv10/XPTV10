@@ -782,19 +782,63 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-name="QQ65267199" tvg-logo="https://live.fanmingming.com/tv/QQ65267199.png" group-title="测试频道",QQ65267199
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="测试频道",凤凰中文
-http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
-http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025
+http://119.125.104.106:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="测试频道",凤凰中文
-http://home.js001.com:7777/stream/channelid/327340771?profile=pass
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="测试频道",凤凰香港
-https://iptv.gssino.com:8051/udp/239.255.30.123:8231
+http://119.125.104.80:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="测试频道",凤凰中文
-http://colony.synology.me:8188/rtp/239.93.0.162:2192
+http://119.125.129.190:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="测试频道",凤凰中文
+http://119.125.104.25:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
-http://colony.synology.me:8188/rtp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="测试频道",凤凰电影
-http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+http://119.125.104.80:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
+http://119.125.104.106:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
+http://119.125.129.190:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
+http://119.125.104.25:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道",凤凰资讯
+http://119.125.128.157:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.com/tv/明珠.png" group-title="测试频道",明珠
+http://119.125.128.176:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
+http://119.125.129.190:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
+http://119.125.104.80:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.com/tv/明珠.png" group-title="测试频道",明珠
+http://59.32.97.187:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
+http://59.32.97.216:9901/tsfile/live/23006_1.m3u8
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
+http://119.125.104.25:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
+http://119.125.104.106:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.com/tv/星河.png" group-title="测试频道",星河
+http://119.125.128.157:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://119.125.129.190:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://119.125.104.80:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://119.125.104.25:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://119.125.104.106:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://119.125.128.176:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://119.125.128.157:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试频道",翡翠台
+http://59.32.97.187:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.com/tv/天映.png" group-title="测试频道",天映
+http://119.125.104.80:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.com/tv/天映.png" group-title="测试频道",天映
+http://119.125.104.106:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.com/tv/天映.png" group-title="测试频道",天映
+http://119.125.129.190:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.com/tv/天映.png" group-title="测试频道",天映
+http://119.125.128.157:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://live.fanmingming.com/tv/天映.png" group-title="测试频道",天映
+http://119.125.104.25:9901/tsfile/live/1043_1.m3u8凤凰电影
 #EXTINF:-1 tvg-name="卫视电影" tvg-logo="https://live.fanmingming.com/tv/卫视电影.png" group-title="测试频道",卫视电影
 http://home.js001.com:7777/stream/channelid/1787158087?profile=pass
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
