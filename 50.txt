@@ -72,16 +72,10 @@ vx(BC80000008)添加不失联,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist
 
 
 🌍大象融媒,#genre#
-
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-栾川新闻,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
-
-
 宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
@@ -91,52 +85,26 @@ vx(BC80000008)添加不失联,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
 舞阳新闻,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-
 淇县,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 确山综合,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-
 封丘新闻,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 原阳新闻,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
-
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-
 新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 栾川新闻,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 襄城电视台,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 襄城电视台,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-
-舞钢,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 淇县,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
 原阳新闻综合,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 沉丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
 洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
-
 宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-辉县新闻综合频道,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-新乡县新闻综合频道,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-原阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-焦作睛彩频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
-沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
-武陟新闻综合频道,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-灵宝新闻综合频道,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 开封公共频道,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-尉氏新闻综合频道,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-禹州新闻综合频道,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-郏县新闻综合频道,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-
-叶县电视台一套,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-鹿邑综合频道,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-
-沈丘新闻综合频道,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-
-舞阳新闻综合频道,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
 
 
 
