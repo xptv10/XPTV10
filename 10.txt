@@ -460,7 +460,8 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 测试频道,#genre#
-vx(BC80000008)添加不失联,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+vx(BC80000008),http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+添加微信不失联,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 明珠,http://119.125.128.176:9901/tsfile/live/1005_1.m3u8
 明珠,http://119.125.128.45:9901/tsfile/live/1008_1.m3u8
 明珠,http://59.32.97.187:9901/tsfile/live/1014_1.m3u8
