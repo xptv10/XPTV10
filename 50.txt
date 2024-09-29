@@ -1,6 +1,6 @@
 测试频道,#genre#
 vx(BC80000008),http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-添加微信不失联,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+添加微信不失联,https://07751000.github.io/001github.io/20240929_230449.m4a
 明珠,http://119.125.128.176:9901/tsfile/live/1005_1.m3u8
 明珠,http://119.125.128.45:9901/tsfile/live/1008_1.m3u8
 明珠,http://59.32.97.187:9901/tsfile/live/1014_1.m3u8
@@ -7757,7 +7757,7 @@ CRI HIT FM (广州),http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 直播源地址后续更换,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 不另行通知劳驾添加,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 微信BC80000008,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-CCTV-1高清,http://175.31.21.146:4480/hls/1/index.m3u8
+CCTV-1高清,https://07751000.github.io/001github.io/20240929_230449.m4a
 CCTV-2高清,http://175.31.21.146:4480/hls/2/index.m3u8
 CCTV-5高清,http://175.31.21.146:4480/hls/5/index.m3u8
 CCTV-1,http://110.7.131.99:8096/tsfile/live/0001_1.m3u8?key=txiptv
