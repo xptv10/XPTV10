@@ -62,10 +62,7 @@
 🌸港台32💞,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
 🌸HOY TV💞,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
 🌸TVB Plus💞,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
-🌸无线新闻💞,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 🌸PopC💞,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
-🌸ViuTVsix💞,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
-🌸ViuTV,💞P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
 🌸now新闻💞,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
 🌸香港国际💞,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
 💞香港综合🌸,#genre#
@@ -80,7 +77,6 @@
 🌸美亚电影台💞,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 🌸黄金翡翠台💞,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c
 🌸爱奇艺💞,P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f
-🌸Astro欢喜💞,P2p://generationnexxxt.com:19806/bb11e8d4e30b40cf836fd8617ab85e8d
 🌸千禧经典💞,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
 
 
@@ -89,7 +85,6 @@ TVB翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT#http://php.jds
 TVB明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 
-翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
 凤凰中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 
@@ -102,59 +97,21 @@ TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 无线新闻频道,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 TVB Plus香港,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 TVB 星河频01,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
-TVB 星河频02,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-翡翠香港频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠香港频道,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
 明珠香港频道,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
 星空卫视频道,http://ayolee.com:5253/rtp/239.93.0.156:2193?Cf=cfss.cc
 星空卫视频道,http://ayolee.com:5253/rtp/239.93.1.10:2193?Cf=cfss.cc
 星空卫视频道,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
-台湾省中天新闻,http://211.72.65.236:8541/.m3u8
-台湾省中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-台湾省中天新闻,http://free.xiptv.x10.bz/kudou.php?id=60
 💝黄金翡翠台💝,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c
-💝千禧经典💝,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
-💝翡翠台💝,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
 💝Thrill💝,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741
 💝明珠台💝,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
 💝18台💝,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
 💝HOY资讯💝,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 💝澳门-MA💝,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf
-💝港台36💝,P2p://generationnexxxt.com:19806/66ae0d840005a10ee8285dce7b7d2800
 💝HOY TV💝,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
-💝翡翠台💝,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
-💝TVB Plus💝,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 💝TVB娱乐💝,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
 💝PopC💝,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
 💝now新闻💝,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
-无线新闻台,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
-翡翠台(备),mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
-TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6
-TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-TVB娱乐新闻台,mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06
-无线新闻台,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-PopC,mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043
-ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
-TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c
-翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
-千禧经典台,mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56
-明珠台,mitv://135.148.104.228:19806/066930b0d2764f05a9b8a0019efe82fe
-now财经台,mitv://135.148.104.228:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
-美亚电影台(粤语),mitv://135.148.104.228:19806/81ea49b841454e1c901ac507f231a581
-18台,mitv://135.148.104.228:19806/2cd619b81446414fb605daa1e86bebd6
-HOY资讯台,mitv://135.148.104.228:19806/f40dc92cdc224868b83be4156ec315dc
-黄金翡翠台,mitv://135.148.104.228:19806/1444d681fb1b44d4a20ff001c2bb2f7c
-PopC,mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12
-翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
-now财经台,mitv://135.148.104.228:19806/415e15f33f8b4b5b95a400a406abd534
-TVB娱乐新闻台,mitv://135.148.104.228:19806/05e767dba8fa48e9ba386ed231c94318
-明珠台,mitv://135.148.104.228:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
-香港国际财经台,mitv://135.148.104.228:19806/b6594fa379204fc5b11ba4bc3fe7d932
-TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c
-澳门莲花,mitv://135.148.104.228:19806/f7ac1f0fdbe64fcc82cee29e0b590242
-澳门-MACAU,mitv://135.148.104.228:19806/a2bbc4a4feec4168804624c67fdea801
-黄金翡翠台,mitv://135.148.104.228:19806/99b70f5afa114465aa463db0cfed6569
 无线黄金台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c#P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
 无线明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 无线新闻台,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
@@ -178,15 +135,12 @@ HOY78,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 
 
 湾湾频道,#genre#
-💝TVBS新闻💝,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 💝三立新闻💝,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
 💝中视新闻💝,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
 💝寰宇新闻💝,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
 💝华视新闻💝,P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
 💝民视第一💝,P2p://generationnexxxt.com:19806/c29c4ad3a69749f4908e9ae4cab91032
 💝华视💝,P2p://generationnexxxt.com:19806/2ebe6c2c5cfd454ebdc30acc44e683d7
-💝民视💝,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
-💝台视💝,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
 💝公视💝,P2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
 💝中视💝,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
 💝美亚电影💝,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
@@ -200,7 +154,6 @@ HOY78,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 💝龙祥电影💝,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
 💝HBO💝,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
 💝AXN💝,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
-💝好莱电影💝,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
 💝HBO Fam💝,P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
 💝HBO强档💝,P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
 💝amc电影💝,P2p://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
@@ -212,13 +165,11 @@ HOY78,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 💝中视经典💝,P2p://generationnexxxt.com:19806/b0fa86c1552742ffb1e5b79fcc2a9f5e
 💝中视菁采💝,P2p://generationnexxxt.com:19806/abf4b02e6c7d408ebc9947ae5b2e11c3
 💝客家电视💝,P2p://generationnexxxt.com:19806/12c8600cdaec420b96693e6cf2e37f67
-💝纬来精采💝,P2p://generationnexxxt.com:19806/66adf17b000a3115e7badbce3d8a0cc9
 💝台视综合💝,P2p://generationnexxxt.com:19806/b8121a70de4c4ce1aa94361a1689297a
 💝公视台语💝,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
 💝纬来综合💝,P2p://generationnexxxt.com:19806/9ca438ac1af6416087c98ee06bb3e512
 💝八大第一💝,P2p://generationnexxxt.com:19806/ef3ddf51945a48beabd3f79eeafe8ac0
 💝三立都会💝,P2p://generationnexxxt.com:19806/d246662584364ea6aad39cb2c7767eec
-💝超视💝,P2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9
 💝中天娱乐💝,P2p://generationnexxxt.com:19806/4ec900f6e5c0468db4b5f6743efa6508
 💝高点综合💝,P2p://generationnexxxt.com:19806/87ef49531c3c4f70b86874445d32ff0d
 中天新闻台,mitv://135.148.104.228:19806/1180a44e6cef425e826c3e798f7f3ea9
