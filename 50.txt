@@ -1,8 +1,6 @@
 测试频道,#genre#
 vx(BC80000008),http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 添加微信不失联,https://07751000.github.io/001github.io/20240929_230449.m4a
-明珠,http://119.125.128.176:9901/tsfile/live/1005_1.m3u8
-明珠,http://119.125.128.45:9901/tsfile/live/1008_1.m3u8
 明珠,http://59.32.97.187:9901/tsfile/live/1014_1.m3u8
 星河,http://113.64.94.150:9901/tsfile/live/1005_1.m3u8
 星河,http://113.64.94.231:9901/tsfile/live/1072_1.m3u8
@@ -10,7 +8,8 @@ vx(BC80000008),http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 翡翠台,http://119.125.128.176:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://119.125.134.248:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://119.125.128.45:9901/tsfile/live/1006_1.m3u8
-凤凰卫视,http://59.32.97.216:9901/tsfile/live/23037_1.m3u8
+凤凰卫视中文,http://59.32.97.44:9901/tsfile/live/23037_1.m3u8
+
 
 
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
