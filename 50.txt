@@ -1,9 +1,8 @@
 测试频道,#genre#
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-凤凰卫视,http://119.125.134.248:9901/tsfile/live/1106_1.m3u8
-凤凰卫视,http://113.64.94.167:9901/tsfile/live/1042_1.m3u8
-凤凰卫视中文,http://59.32.97.44:9901/tsfile/live/23037_1.m3u8
+
+凤凰卫视,http://59.32.97.44:9901/tsfile/live/23037_1.m3u8
 凤凰卫视,http://113.64.94.231:9901/tsfile/live/1037_1.m3u8
 凤凰中文,http://119.125.129.129:9901/tsfile/live/1036_1.m3u8
 凤凰中文,http://119.125.104.232:9901/tsfile/live/1036_1.m3u8
@@ -23,7 +22,6 @@
 天映,http://113.64.94.131:9901/tsfile/live/1043_1.m3u8
 天映,http://119.125.104.232:9901/tsfile/live/1043_1.m3u8
 天映,http://119.125.104.38:9901/tsfile/live/1043_1.m3u8
-明珠,http://119.125.134.248:9901/tsfile/live/1014_1.m3u8
 星河,http://119.125.104.171:9901/tsfile/live/1005_1.m3u8
 星河,http://113.64.94.131:9901/tsfile/live/1005_1.m3u8
 星河,http://119.125.129.129:9901/tsfile/live/1005_1.m3u8
@@ -32,14 +30,13 @@
 星河,http://113.64.94.150:9901/tsfile/live/1005_1.m3u8
 星河,http://119.125.104.38:9901/tsfile/live/1005_1.m3u8
 星河,http://113.64.94.231:9901/tsfile/live/1072_1.m3u8
-翡翠台,http://119.125.134.248:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://119.125.104.232:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://113.64.94.150:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://119.125.104.38:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://119.125.104.171:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://119.125.129.129:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://113.64.94.131:9901/tsfile/live/1004_1.m3u8
-翡翠台,http://113.64.94.167:9901/tsfile/live/1004_1.m3u8
+
 
 
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
